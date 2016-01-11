@@ -3,6 +3,8 @@ Date: 2010-12-03 10:20
 Modified: 2010-12-05 19:30
 Authors: Pat Regan
 Summary: Brewmaster's Basement
+url: /
+save_as: brew.html
 
 
 ## BREWMASTER'S BASEMENT

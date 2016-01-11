@@ -3,6 +3,12 @@ Date: 2010-12-03 10:20
 Modified: 2010-12-05 19:30
 Authors: Pat Regan
 Summary: Plano Hackerspace
+url: /
+save_as: hackerspace.html
+
+## Hack at TheLab.ms!
+
+We're planning to build a virtual space with CTF, etc. Email jarod if you want to help set it up!
 
 
 ## Plano Hackerspace
