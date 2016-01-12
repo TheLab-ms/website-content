@@ -4,7 +4,7 @@ Modified: 2010-12-05 19:30
 Authors: Pat Regan
 Summary: TheLab.ms
 url: /
-save_as: index.html
+save_as: old-index.html
 
 ## What is TheLab.ms?
 
