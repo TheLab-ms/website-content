@@ -6,9 +6,6 @@ Summary: Donate
 url: /
 save_as: donate.html
 
-
-## Donate
-
 We will gratefully accept your donations of time, money, or equipment. Thank you for supporting us and our creative community!
 Financial Contributions
 

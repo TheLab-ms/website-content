@@ -6,9 +6,6 @@ Summary: Brewmaster's Basement
 url: /
 save_as: brew.html
 
-
-## BREWMASTER'S BASEMENT
-
 ## About the Brewmaster
 
 For the longest time I had wanted to brew my own beer but thought it was too hard. Then about five years ago I got a basic extract brew kit for Christmas and learned how easy it actually was. I out grew that kit quickly and within six months was making all grain brews. My next big change was from bottling to kegging and since switching I haven't looked back. Moving to the Dallas area presented me with the challenge of keeping consistent fermentation temperature in the Texas heat. So a fermentation cooler completed my setup.

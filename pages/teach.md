@@ -6,6 +6,4 @@ Summary: TheLab.ms
 url: /
 save_as: teach.html
 
-## Teach at TheLab.ms!
-
 Wanna teach a class? email greg!

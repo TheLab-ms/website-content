@@ -6,8 +6,6 @@ Summary: TheLab.ms
 url: /
 save_as: join.html
 
-## Join TheLab.ms!
-
 Welcome aboard! here are join instructions
 
 ## Membership

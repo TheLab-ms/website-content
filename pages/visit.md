@@ -6,6 +6,4 @@ Summary: TheLab.ms
 url: /
 save_as: visit.html
 
-## Visit TheLab.ms!
-
 We have open house every month. Here's a map.

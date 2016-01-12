@@ -1,13 +1,10 @@
-Title: About
+Title: About TheLab.ms
 Date: 2010-12-03 10:20
 Modified: 2010-12-05 19:30
 Authors: Pat Regan
 Summary: About TheLab.ms
 url: /
 save_as: about.html
-
-
-## About TheLab.ms
 
 *lab·o·ra·to·ry*: a place equipped for experimental study in a science or for testing and analysis;  broadly : a place providing opportunity for experimentation, observation, or practice in a field of study - Merriam-Webster.com
 

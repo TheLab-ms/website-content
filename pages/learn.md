@@ -6,6 +6,4 @@ Summary: TheLab.ms
 url: /
 save_as: learn.html
 
-## Learn at TheLab.ms!
-
 We have classes! here's some sort of meetup integration or link

@@ -6,6 +6,4 @@ Summary: TheLab.ms
 url: /
 save_as: make.html
 
-## Make at TheLab.ms!
-
 We have 3d printers and soldering irons

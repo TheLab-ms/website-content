@@ -4,7 +4,7 @@ Modified: 2010-12-05 19:30
 Authors: Pat Regan
 Summary: Plano Hackerspace
 url: /
-save_as: hackerspace.html
+save_as: hack.html
 
 ## Hack at TheLab.ms!
 
