@@ -28,7 +28,6 @@ While that is a simplistic explanation the reality can be much more complex as t
 
  * Monthly Brew Night Meetup
 
- * Brewmaster's Recipes on BeerSmith
+ * [Brewmaster's Recipes on BeerSmith](http://beersmithrecipes.com/viewuser/8509/gowenrw)
 
- * Brew of the Month Wiki page
-
+ * [Brew of the Month Wiki page](https://thelab.ms/wiki/index.php/Brew_Of_The_Month)
