@@ -8,6 +8,8 @@ save_as: about.html
 
 *lab·o·ra·to·ry*: a place equipped for experimental study in a science or for testing and analysis;  broadly : a place providing opportunity for experimentation, observation, or practice in a field of study - Merriam-Webster.com
 
+![TheLab.ms](/images/TheLabExterior.jpg)
+
 ## Our Mission
 
 TheLab.ms is organized exclusively for charitable, educational, and scientific purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code of 1986 (or the corresponding section of any future United States Internal Revenue law). Its mission is to foster a collaborative environment wherein people can explore and create intersections between science, art, culture and technology.

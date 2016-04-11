@@ -7,3 +7,5 @@ url: /
 save_as: participate.html
 
 We run our events through meetup. Here's a link or widget
+
+![These guys are participating](/images/LeadershipMeeting1.jpg)

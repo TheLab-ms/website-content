@@ -7,3 +7,5 @@ url: /
 save_as: learn.html
 
 We have classes! here's some sort of meetup integration or link
+
+![Three Smart Guys](/images/MeetingOfTheMinds.jpg)
