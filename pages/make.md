@@ -6,12 +6,17 @@ Summary: TheLab.ms
 url: /
 save_as: make.html
 
-We have 3d printers and soldering irons!
+We have 3d printers and soldering irons!  This is a terrible intro paragraph.  I apologize.
 
-# We have two FlashForge Creator Pro 3D Printers.
+# The 3D Print Lab
+
+We have two FlashForge Creator Pro printers in our *Print Lab*.  Each of these 3D printers is equipped with dual extruders, and they have heated beds with a build volume of 9" x 6" x 5.7".  The extruders can handle both PLA and ABS.  We print with layer heights from 0.1mm to 0.3mm.  We've turned out some nice, high-quality prints at 60mm per second.
+
 ![3D Printing](/images/3DPrinting1.jpg)
 
-We can print Buddha Troopers
+All members are free to use our 3D printers at any time.  We stock quality filament in a variety of colors, and members can make use of this filament for a nominal fee--10 cents per meter for standard ABS filament.
+
+We'd prefer members use the filament we stock--it is higher quality filament and less likely to clog the extruders.  Members can use their own filament, though.  You may want to try something more expensive like BronzeFill or NinjaFlex.  We don't currently have these in stock, so you would have to bring your own.
 
 ![3D Printing](/images/3DPrinting2.jpg)
 
@@ -19,6 +24,13 @@ But they were CONES!
 
 ![3D Printing](/images/3DPrinting3.jpg)
 
-We're also working on a fantastic infinity cube!
+## The Electronics Lab
+
+We have a giant analyzer machine of some sort, some multimeters, and plenty of soldering irons.  
+
+
+
+We're also working on a fantastic infinity cube!  This should definitely go on this page.  Maybe the 3d printing and electronics lab should get there own page?  Maybe after we have more projects to show off?
 
 ![3D Printing](/images/CubeAlpha.jpg)
+
