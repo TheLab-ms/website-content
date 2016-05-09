@@ -1,41 +1,94 @@
 Title: Brewmaster's Basement
 Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
-Authors: Pat Regan
+Modified: 2016-05-08 19:30
+Authors: Pat Regan, Richard Gowen
 Summary: Brewmaster's Basement
 url: /
 save_as: brew.html
 
+<table style="width: 90%; border: 0px solid #000000; background-color: #000000;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="border: 1px solid #000000; background-color: #000000;"><img src="images/HomeBrew2.jpg" alt="HomeBrew2" style="display: block; margin-left: auto; margin-right: auto;" /></td>
+<td style="border: 1px solid #000000; background-color: #000000;"><img src="images/Boil2.jpg" alt="Boil2" style="display: block; margin-left: auto; margin-right: auto;" /></td>
+<td style="border: 1px solid #000000; background-color: #000000;"><img src="images/Fermentation2.jpg" alt="Fermentation2" style="display: block; margin-left: auto; margin-right: auto;" /></td>
+<td style="border: 1px solid #000000; background-color: #000000;"><img src="images/KegBottle2.jpg" alt="KegBottle2" style="display: block; margin-left: auto; margin-right: auto;" /></td>
+</tr>
+</tbody>
+</table>
+
 ## About the Brewmaster
 
-For the longest time I had wanted to brew my own beer but thought it was too hard. Then about five years ago I got a basic extract brew kit for Christmas and learned how easy it actually was. I out grew that kit quickly and within six months was making all grain brews. My next big change was from bottling to kegging and since switching I haven't looked back. Moving to the Dallas area presented me with the challenge of keeping consistent fermentation temperature in the Texas heat. So a fermentation cooler completed my setup.
+<table style="width: 100%;" align="center">
+<tbody><tr><td style="width: 70%; vertical-align: top; padding: 6px;">
+For the longest time I had wanted to brew my own beer but thought it was too hard. <br>
+Then about five years ago I got a basic extract brew kit for Christmas and learned how easy it actually was. <br>
+I out grew that kit quickly and within six months was making all grain brews. <br>
+My next big change was from bottling to kegging and since switching I haven&#39;t looked back. <br>
+Moving to the Dallas area presented me with the challenge of keeping consistent fermentation temperature in the Texas heat. <br>
+So a fermentation cooler completed my setup.
+</td><td style="width: 30%; vertical-align: top; padding: 6px;">
+<img src="images/Brewmaster2.jpg" alt="Brewmaster" style="display: block; margin-left: auto; margin-right: auto;" />
+</td></tr>
+</tbody></table>
 
-![Beer Brewing](/images/BeerBrewing1.jpg)
+&nbsp;
 
-I really enjoy trying to replicate classic beer styles while still making them my own. Since brewing has such a wide margin for error even my failures are usually pretty tasty. I'm excluding a particularly bad Christmas ale I attempted that tasted like ground up potpourri. But there are exceptions to every rule. So I don't let failure, even on a epic scale like potpourri beer, deter me from taking risks and trying new things.
+<table style="width: 100%;" align="center">
+<tbody><tr><td style="width: 30%; vertical-align: top; padding: 6px;">
+<img src="images/Brewmaster1.jpg" alt="Brewmaster" style="display: block; margin-left: auto; margin-right: auto;" />
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+I really enjoy trying to replicate classic beer styles while still making them my own. <br>
+Since brewing has such a wide margin for error even my failures are usually pretty tasty. <br>
+I&#39;m excluding a particularly bad Christmas ale I attempted that tasted like ground up potpourri. <br>
+But there are exceptions to every rule. <br>
+So I don&#39;t let failure, even on a epic scale like potpourri beer, deter me from taking risks and trying new things.
+</td></tr>
+</tbody></table>
 
-![Beer Brewing](/images/BeerBrewing2.jpg)
+&nbsp;
 
-Brewmaster is an honorary title as I would by no means consider myself to be an expert Brewer since I still have more to learn. But I have learned quite a lot about Brewing over the past few years and am happy to share that knowledge. Hopefully I can use this space to teach someone something new just as I hope to learn something new from someone else.
-
-![Beer Brewing](/images/BeerBrewing3.jpg)
-
-Welcome to my basement.
-
---Richard
+<table style="width: 100%;" align="center">
+<tbody><tr><td style="width: 50%; vertical-align: top; padding: 6px;">
+Brewmaster is an honorary title as I would by no means consider myself to be an expert Brewer since I still have more to learn. <br>
+But I have learned quite a lot about Brewing over the past few years and am happy to share that knowledge. <br>
+Hopefully I can use this space to teach someone something new just as I hope to learn something new from someone else. <br>
+<br>
+Welcome to my basement. <br>
+<br>
+--<a href="mailto:richard@thelab.ms">Richard</a>
+</td><td style="width: 50%; vertical-align: top; padding: 6px;">
+<img src="images/TheLab-BeerBrewing.jpg" alt="Brewing" style="display: block; margin-left: auto; margin-right: auto;" />
+</td></tr>
+</tbody></table>
 
 ## Brewing Basics
 
+<table style="width: 100%;" align="center">
+<tbody><tr><td style="width: 30%; vertical-align: top; padding: 6px;">
+<img src="images/BeerBrewing1small.jpg" alt="Beer Brewing" style="display: block; margin-left: auto; margin-right: auto;" />
+</td><td style="width: 40%; vertical-align: top; padding: 6px;">
 A simple explanation of the brewing process would be that you are taking water enriched with the sugars and flavors of various grains and boiling it with hops to add flavor and aroma then adding yeast that will turn the sugar into alcohol after a period of time at a certain temperature.
+</td><td style="width: 30%; vertical-align: top; padding: 6px;">
+<img src="images/BeerBrewing2small.jpg" alt="Beer Brewing" style="display: block; margin-left: auto; margin-right: auto;" />
+</td></tr>
+</tbody></table>
 
-![Beer Brewing](/images/BeerBrewing4.jpg)
+&nbsp;
 
+<table style="width: 100%;" align="center">
+<tbody><tr><td style="width: 30%; vertical-align: top; padding: 6px;">
+<img src="images/BeerBrewing3small.jpg" alt="Beer Brewing" style="display: block; margin-left: auto; margin-right: auto;" />
+</td><td style="width: 40%; vertical-align: top; padding: 6px;">
 While that is a simplistic explanation the reality can be much more complex as the choice of grains, hops, and yeast as well as the boil time and fermentation time and temp all can change the flavor, color, and alcohol content of a given beer.
+</td><td style="width: 30%; vertical-align: top; padding: 6px;">
+<img src="images/BeerBrewing4small.jpg" alt="Beer Brewing" style="display: block; margin-left: auto; margin-right: auto;" />
+</td></tr>
+</tbody></table>
 
 ## Resources
 
- * Monthly Brew Night Meetup
+* Monthly Brew Night Meetup
+* [Brewmaster&#39;s Recipes on BeerSmith](http://beersmithrecipes.com/viewuser/8509/gowenrw)
+* [Brew of the Month Wiki page](https://thelab.ms/wiki/index.php/Brew_Of_The_Month)
 
- * [Brewmaster's Recipes on BeerSmith](http://beersmithrecipes.com/viewuser/8509/gowenrw)
-
- * [Brew of the Month Wiki page](https://thelab.ms/wiki/index.php/Brew_Of_The_Month)
