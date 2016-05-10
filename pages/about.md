@@ -1,6 +1,6 @@
 Title: About TheLab.ms
 Date: 2010-12-03 10:20
-Modified: 2016-05-08 19:30
+Modified: 2016-05-09 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: About TheLab.ms
 url: /
@@ -70,7 +70,7 @@ Here is a list of our current Board of Directors:
 
 ### Officers
 
-We currently have five officer positions including Treasurer, Chief Technical Officer, Education Coordinator, Fundraising Coordinator, and Chief Legal Officer. 
+We currently have six officer positions including Treasurer, Chief Technical Officer, Education Coordinator, Fundraising Coordinator, Facilities Coordinator, and Chief Legal Officer. 
 The officers are elected annually by a vote of the membership.
 Here is a list of our current Officers:
 
@@ -78,6 +78,7 @@ Here is a list of our current Officers:
 * Chief Technical Officer - Jarrod Frates
 * Education Coordinator - Gregory Miller
 * Fundraising Coordinator - Abby Wheeler
+* Facilities Coordinator - Neil Smith
 * Chief Legal Officer - Vacant
 
 
