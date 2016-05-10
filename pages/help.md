@@ -28,3 +28,4 @@ If you are able to help us either before or at this event you should attend one 
 When we get closer to the event date a volunteer sign up form will be posted.
  
 
+Be sure to visit us in [Slack](https://thelab.slack.com) or [IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) or [Reddit](http://www.reddit.com/r/TheLab_ms/) to share your ideas!

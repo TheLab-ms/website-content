@@ -60,6 +60,7 @@ Here is a list of some of our programs and a short list of what they encompass:
 
 If you want to come and participate in one of these programs or the classes and projects and events they support, visit our [Meetup](https://www.meetup.com/TheLab-ms/) page for details.
 
+Be sure to visit us in [Slack](https://thelab.slack.com) or [IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) or [Reddit](http://www.reddit.com/r/TheLab_ms/) to share your ideas!
 
 ![These guys are participating](/images/LeadershipMeeting1.jpg)
 

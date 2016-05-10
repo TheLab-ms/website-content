@@ -50,7 +50,8 @@ Our online presence is critical for our members communication and collaboration.
 [Reddit](http://www.reddit.com/r/TheLab_ms/) &nbsp;
 [Github](https://github.com/TheLab-ms) &nbsp;
 [Google+](https://plus.google.com/+TheLabMs/) &nbsp;
-[IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) 
+[IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) &nbsp;
+[Slack](https://thelab.slack.com)
 
 ## Leadership
 
