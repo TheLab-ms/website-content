@@ -21,11 +21,6 @@ All members are free to use our 3D printers at any time.  We stock quality filam
 
 We'd prefer members use the filament we stock--it is higher quality filament and less likely to clog the extruders.  Members can use their own filament, though.  You may want to try something more expensive like BronzeFill or NinjaFlex.  We don't currently have these in stock, so you would have to bring your own.
 
-
-## The Electronics Lab
-
-We have a giant analyzer machine of some sort, some multimeters, and plenty of soldering irons.  
-
 ## Other Projects
 
 We're currently working on an art project that utilizes some of our electronics expertise--The Infinity Cube.  The walls of the cube are 24-inch acrylic sheets lined with reflective material.  This creates a one-way mirror effect.
