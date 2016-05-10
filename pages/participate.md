@@ -6,10 +6,59 @@ Summary: TheLab.ms
 url: /
 save_as: participate.html
 
-The term "collaborative learning" has become increasingly familiar today because it is applied liberally to all sorts of educational settings.
-This is where learning becomes a fun, buring desire rather than aiming for a high grade or degree.
-Learning for the fun of learning, no commitments attached.
-If you are wanting to come and participate in one of our classes or events, visit our meetup page for details.
+## Participate in our Programs
+
+In addition to teaching and/or attending classes, there are several programs that our members participate in.
+Some of these programs have associated classes and some are dedicated to a project or event.
+These programs form the outline for the learning experiences and projects and events we host.
+
+Here is a list of some of our programs and a short list of what they encompass:
+
+### Member Programs
+
+* Brewmaster&#39;s Basement
+    * Learn Biochemical Engineering and Thermodynamics Through Brewing
+    * Monthly Brew Night Events
+    * Home Brewing Tools & Education
+    * Beer Tasting & Style Comparisons
+* Plano Hackerspace
+    * Capture The Flag (CTF) Events
+    * IT Security Tools & Education
+    * Penetration Testing
+    * Programming
+* TAP Wearable Electronics Project
+    * Hardware Concept & Design
+    * Programming Hardware
+    * Crowd Funding Product Campaign
+* DFW Trebuchet Society
+    * Learn Applied Physics Through Medieval Siege Weaponry
+    * Trebuchet Building Events
+    * Annual Slingfest Event
+* 3D Printing
+    * Learn 3D Print Design
+    * Learn 3D Printer Programming
+    * Various 3D Printed Projects
+* Your Program
+    * Do You Have An Idea For A Program And Are Willing To Run It?
+    * Then Contact [TheLab.ms Leadership](mailto:leadership@thelab.ms) To Get Your Program Added
+
+### Community Outreach Programs
+
+* S.T.E.A.M.
+    * Science Technology Engineering Arts and Math
+    * Brookhaven College STEM Fair
+    * S.T.E.A.M. Related Educational Events
+* Scratch
+    * Learn The MIT Scratch Programming Language Through Interactive Classes
+    * Scratch Educational Events For All Ages
+* Arduino
+    * Learn How To Build Interactive Digital Devices With The Arduino
+    * Arduino Educational Events For All Ages
+* Your Community Event
+    * Do You Have A Community Event You Would Like Us To Participate In?
+    * Then Contact [TheLab.ms Leadership](mailto:leadership@thelab.ms) To Tell Us About It So We Can Help
+
+If you want to come and participate in one of these programs or the classes and projects and events they support, visit our [Meetup](https://www.meetup.com/TheLab-ms/) page for details.
 
 
 ![These guys are participating](/images/LeadershipMeeting1.jpg)

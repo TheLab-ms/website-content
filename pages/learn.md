@@ -8,10 +8,17 @@ save_as: learn.html
 
 TheLab.ms is a collaborative space, and as such, we want to share and learn off each other.
 
+The term "collaborative learning" has become increasingly familiar today because it is applied liberally to all sorts of educational settings.
+
+This is where learning becomes a fun, buring desire rather than aiming for a high grade or degree.
+Learning for the fun of learning, no commitments attached.
+
 We host a variety of classes on a wide-range number of topics.
+All of these classes are open to the general public free of charge.
+
 In the past we have held classes on Python, Arduino, Automation, Virtual Reality, Network Securty, and more.
 
-Detailed information on each of our upcoming meetings, classes, and events can be found on our meetup page.
+Detailed information on each of our upcoming classes can be found on our [Meetup](https://www.meetup.com/TheLab-ms/) page.
  
 
 ![Three Smart Guys](/images/MeetingOfTheMinds.jpg)

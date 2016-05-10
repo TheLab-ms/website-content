@@ -1,6 +1,6 @@
 Title: Donate
 Date: 2010-12-03 10:20
-Modified: 2016-05-08 19:30
+Modified: 2016-05-09 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: Donate
 url: /
@@ -11,6 +11,8 @@ We will gratefully accept your donations of time, money, or equipment. Thank you
 ## Financial Contributions
 
 Donate via PayPal. Other options / methods coming soon.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input type="hidden" name="cmd" value="_s-xclick" /> <input type="hidden" name="hosted_button_id" value="VC42QSRCDCVBU" /> <input type="image" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal - The safer, easier way to pay online!" /> <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
 
 ## Donate Equipment
 

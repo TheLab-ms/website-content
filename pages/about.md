@@ -43,7 +43,7 @@ Our first industrial workshop for woodworking, metalworking, etc.  We are curren
 
 Our online presence is critical for our members communication and collaboration.  As such we strive to be in all the places our members are.  Here is a list of some of the places you can find us.
 
-[Meetup](http://www.meetup.com/TheLab-ms/) &nbsp;
+[Meetup](https://www.meetup.com/TheLab-ms/) &nbsp;
 [Wiki](https://thelab.ms/wiki/index.php/Main_Page) &nbsp;
 [Facebook](https://www.facebook.com/thelabms) &nbsp;
 [Twitter](https://twitter.com/TheLab_ms) &nbsp;
