@@ -22,6 +22,8 @@ We want to focus on the following areas:
     * Topics including reverse engineering, malware analysis, social engineering, and really any topic under the IT security umbrella. 
     * We&#39;ll also be working with TheLab.ms education outreach program to bring this knowledge to others, as well as to schools promoting STEAM education.
 
+&nbsp;
+
 Be sure to visit us in [Slack](https://thelab.slack.com) or [IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) or [Reddit](http://www.reddit.com/r/TheLab_ms/) to share your ideas!
 
 
