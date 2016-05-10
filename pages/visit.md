@@ -18,6 +18,6 @@ Join in on the fun and make yourself at home.
 
 If you are having trouble finding us:  We share the same parking lot with Fishmongers and Marinara Pizza and are located next door to Coffee Del Rey.
 
-If you cannot make it to an open house feel free to join us at any other event we have announced on meetup.  You are guaranteed that at least one person will be there that can show you around.
+If you cannot make it to an open house feel free to join us at any other event we have announced on [Meetup](https://www.meetup.com/TheLab-ms/).  You are guaranteed that at least one person will be there that can show you around.
 
 

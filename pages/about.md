@@ -43,14 +43,15 @@ Our first industrial workshop for woodworking, metalworking, etc.  We are curren
 
 Our online presence is critical for our members communication and collaboration.  As such we strive to be in all the places our members are.  Here is a list of some of the places you can find us.
 
-[Meetup](http://www.meetup.com/TheLab-ms/) &nbsp;
+[Meetup](https://www.meetup.com/TheLab-ms/) &nbsp;
 [Wiki](https://thelab.ms/wiki/index.php/Main_Page) &nbsp;
 [Facebook](https://www.facebook.com/thelabms) &nbsp;
 [Twitter](https://twitter.com/TheLab_ms) &nbsp;
 [Reddit](http://www.reddit.com/r/TheLab_ms/) &nbsp;
 [Github](https://github.com/TheLab-ms) &nbsp;
 [Google+](https://plus.google.com/+TheLabMs/) &nbsp;
-[IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) 
+[IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) &nbsp;
+[Slack](https://thelab.slack.com)
 
 ## Leadership
 
