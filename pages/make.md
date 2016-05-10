@@ -10,14 +10,14 @@ Do you have a project you're working on, but you don't have all the necessary to
 
 # The 3D Print Lab
 
-<img class="img-right" src="/images/3DPrinting1.jpg" />
+<img class="img-right" src="/images/3DPrinting1_tn.jpg" />
 
 We have two FlashForge Creator Pro printers in our *Print Lab*.  Each of these 3D printers is equipped with dual extruders, and they have heated beds with a build volume of 9" x 6" x 5.7".  The extruders can handle both PLA and ABS.  We print with layer heights from 0.1mm to 0.3mm.  We've turned out some nice, high-quality prints at 60mm per second.
 
 
 All members are free to use our 3D printers at any time.  We stock quality filament in a variety of colors, and members can make use of this filament for a nominal fee--10 cents per meter for standard ABS filament.
 
-<img class="img-left" src="/images/3DPrinting2.jpg" />
+<img class="img-left" src="/images/3DPrinting2_tn.jpg" />
 
 We'd prefer members use the filament we stock--it is higher quality filament and less likely to clog the extruders.  Members can use their own filament, though.  You may want to try something more expensive like BronzeFill or NinjaFlex.  We don't currently have these in stock, so you would have to bring your own.
 
