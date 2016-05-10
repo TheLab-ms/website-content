@@ -26,9 +26,10 @@ We'd prefer members use the filament we stock--it is higher quality filament and
 
 We have a giant analyzer machine of some sort, some multimeters, and plenty of soldering irons.  
 
+## Other Projects
 
+We're currently working on an art project that utilizes some of our electronics expertise--The Infinity Cube.  The walls of the cube are 24-inch acrylic sheets lined with reflective material.  This creates a one-way mirror effect.
 
-We're also working on a fantastic infinity cube!  This should definitely go on this page.  Maybe the 3d printing and electronics lab should get there own page?  Maybe after we have more projects to show off?
+<img src="/images/CubeAlpha.jpg" />
 
-<img class="img-left" src="/images/CubeAlpha.jpg" />
-
+The first iteration of the cube was filled with electroluminescent wire.  The "EL" wire looks really cool, and we could definitely do some interesting things with it, but it just isn't bright enough for our purposes.  We're working on assembling a sculpture made of cold-cathode tubes.  The cold cathode tubes are significantly brighter, so you'll definitely be able to see our sculpture from across the parking lot!
