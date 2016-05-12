@@ -1,6 +1,6 @@
 Title: About TheLab.ms
 Date: 2010-12-03 10:20
-Modified: 2016-05-09 19:30
+Modified: 2016-05-11 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: About TheLab.ms
 url: /
@@ -81,6 +81,11 @@ Here is a list of our current Officers:
 * Fundraising Coordinator - Abby Wheeler
 * Facilities Coordinator - Neil Smith
 * Chief Legal Officer - Vacant
+
+
+## Bylaws
+
+We publish our [Bylaws](https://thelab.ms/wiki/index.php/Bylaws) and other [Rules](https://thelab.ms/wiki/index.php/Rules) on our [Wiki](https://thelab.ms/wiki/index.php/Main_Page) for easy access by the public at large.
 
 
 ## Thanks

@@ -8,7 +8,7 @@ save_as: participate.html
 
 ## Participate in our Programs
 
-<img class="img-right" src="/images/MeetingOfTheMinds_tn.jpg" />
+<img class="img-right" src="/images/MeetingOfTheMinds_tn.jpg" alt="A Meeting of the Minds" />
 
 In addition to teaching and/or attending classes, there are several programs that our members participate in.
 Some of these programs have associated classes and some are dedicated to a project or event.
@@ -18,7 +18,7 @@ Here is a list of some of our programs and a short list of what they encompass:
 
 ### Member Programs
 
-<img class="img-right" src="/images/LeadershipMeeting1_tn.jpg" />
+<img class="img-right" src="/images/LeadershipMeeting1_tn.jpg" alt="A Leadership Meeting" />
 
 * Brewmaster&#39;s Basement
     * Learn Biochemical Engineering and Thermodynamics Through Brewing
@@ -30,18 +30,18 @@ Here is a list of some of our programs and a short list of what they encompass:
     * IT Security Tools & Education
     * Penetration Testing
     * Programming
+* 3D Printing <img class="img-right" src="/images/3DPrinting4_tn.jpg" alt="3D Printers" />
+    * Learn 3D Print Design
+    * Learn 3D Printer Programming
+    * Various 3D Printed Projects
 * TAP Wearable Electronics Project
     * Hardware Concept & Design
     * Programming Hardware
     * Crowd Funding Product Campaign
-* DFW Trebuchet Society
+* DFW Trebuchet Society <img class="img-right" src="/images/SlingFest1_tn.jpg" alt="SlingFest" />
     * Learn Applied Physics Through Medieval Siege Weaponry
     * Trebuchet Building Events
     * Annual Slingfest Event
-* 3D Printing
-    * Learn 3D Print Design
-    * Learn 3D Printer Programming
-    * Various 3D Printed Projects
 * Your Program
     * Do You Have An Idea For A Program And Are Willing To Run It?
     * Then Contact [TheLab.ms Leadership](mailto:leadership@thelab.ms) To Get Your Program Added
@@ -52,12 +52,12 @@ Here is a list of some of our programs and a short list of what they encompass:
     * Science Technology Engineering Arts and Math
     * Brookhaven College STEM Fair
     * S.T.E.A.M. Related Educational Events
+* Arduino <img class="img-right" src="/images/Arduino1_tn.jpg" alt="Arduino101" />
+    * Learn How To Build Interactive Digital Devices With The Arduino
+    * Arduino Educational Events For All Ages
 * Scratch
     * Learn The MIT Scratch Programming Language Through Interactive Classes
     * Scratch Educational Events For All Ages
-* Arduino
-    * Learn How To Build Interactive Digital Devices With The Arduino
-    * Arduino Educational Events For All Ages
 * Your Community Event
     * Do You Have A Community Event You Would Like Us To Participate In?
     * Then Contact [TheLab.ms Leadership](mailto:leadership@thelab.ms) To Tell Us About It So We Can Help

@@ -1,6 +1,6 @@
 Title: Join
 Date: 2010-12-03 10:20
-Modified: 2016-05-09 19:30
+Modified: 2016-05-11 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: TheLab.ms
 url: /
@@ -32,5 +32,11 @@ Save $110 for the year!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" /> <input name="hosted_button_id" type="hidden" value="X466WSCFD8K64" /> <input alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif" type="image" /> <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" /></form>
 
 
+### Membership Agreement
 
+Members of TheLab.ms and their guests must agree and adhere to the [Membership Agreement](https://thelab.ms/wiki/index.php/Membership_Agreement) as a requirement of membership. 
+
+Violation of the membership terms and/or conditions outlined in this membership agreement may result in termination of membership.
+
+Submission of payment for membership is considered a declaration of agreement to these terms.
 

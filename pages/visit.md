@@ -1,10 +1,14 @@
 Title: Visit
 Date: 2010-12-03 10:20
-Modified: 2016-05-09 19:30
+Modified: 2016-05-11 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: TheLab.ms
 url: /
 save_as: visit.html
+
+## Visit Us
+
+<img class="img-right" src="/images/OpenHouse1_tn.jpg" alt="Open House" />
 
 We hold an open house at our Education Center every second Saturday of the Month.
 
