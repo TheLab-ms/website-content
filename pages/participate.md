@@ -8,6 +8,8 @@ save_as: participate.html
 
 ## Participate in our Programs
 
+<img class="img-right" src="/images/MeetingOfTheMinds_tn.jpg" />
+
 In addition to teaching and/or attending classes, there are several programs that our members participate in.
 Some of these programs have associated classes and some are dedicated to a project or event.
 These programs form the outline for the learning experiences and projects and events we host.
@@ -15,6 +17,8 @@ These programs form the outline for the learning experiences and projects and ev
 Here is a list of some of our programs and a short list of what they encompass:
 
 ### Member Programs
+
+<img class="img-right" src="/images/LeadershipMeeting1_tn.jpg" />
 
 * Brewmaster&#39;s Basement
     * Learn Biochemical Engineering and Thermodynamics Through Brewing
@@ -64,5 +68,4 @@ If you want to come and participate in one of these programs or the classes and 
 
 Be sure to visit us in [Slack](https://thelab.slack.com) or [IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) or [Reddit](http://www.reddit.com/r/TheLab_ms/) to share your ideas!
 
-![These guys are participating](/images/LeadershipMeeting1.jpg)
 

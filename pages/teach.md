@@ -8,8 +8,7 @@ save_as: teach.html
 
 TheLab.ms is made up of volunteers and people who are willing to share knowledge on any topic they are passionate about.
 
-![Shawn Porter speaking to a class at TheLab.ms](/images/Teach.jpg)
-
 We invite anyone who is willing to share thier knowledge and/or information on any topic of thier liking to contact our [Education Coordinator](mailto:greg@thelab.ms) to set up a time and announcement of the class or presentation.
 
+![Shawn Porter speaking to a class at TheLab.ms](/images/Teach.jpg)
 
