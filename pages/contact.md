@@ -1,4 +1,4 @@
-Title: Contact TheLab.ms
+﻿Title: Contact TheLab.ms
 Date: 2010-12-03 10:20
 Modified: 2016-05-09 19:30
 Authors: Pat Regan, Richard Gowen
@@ -18,7 +18,7 @@ If there is a class or event scheduled in [Meetup](https://www.meetup.com/TheLab
 
 ### Contact Us By Email
 
-General coorespondence with the Leadership of TheLab.ms is handled via the [Leadership Email List](mailto:leadership@thelab.ms)
+General correspondence with the Leadership of TheLab.ms is handled via the [Leadership Email List](mailto:leadership@thelab.ms)
 
 Financial inquiries are handled via the [Treasurer Email](treasurer@thelab.ms)
 
