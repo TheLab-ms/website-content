@@ -1,0 +1,509 @@
+@import url(https://fonts.googleapis.com/css?family=Basic);
+
+body {
+    padding-top: 70px;
+}
+
+#sidebar .list-group, #sidebar .list-group-item {
+    background-color: transparent;
+}
+
+/* for list-groups nested within a list-group-item, reset the bottom margin */
+.list-group-item > .list-group {
+    margin-bottom: 0px;
+}
+
+/* for list-group-items nested within a list-group-item, reset the bottom
+   padding of the last item, b/c the containing item has paddimg already 
+ */
+.list-group-item .list-group-item:last-child {
+    padding-bottom: 0px;
+}
+
+.list-group-item {
+    border: none;
+}
+
+.tag-0 {
+    font-size: 16pt;
+}
+
+.tag-1 {
+    font-size: 13pt;
+}
+
+.tag-2 {
+    font-size: 10pt;
+}
+
+.tag-3 {
+    font-size: 8pt;
+}
+
+.tag-4 {
+    font-size: 6pt;
+}
+
+#aboutme {
+    padding-top: 0px;
+    padding-bottom: 5px;
+    -ms-word-break: normal;
+    word-break: normal;
+}
+
+#sidebar {
+    padding-top: 0px;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+#sidebar a {
+    color: inherit;
+}
+
+.icon-label {
+    margin-left: 10px;
+}
+
+/* Example for how to control spacing between icon and label in specific
+   lists in the sidebar. To change, override in your CUSTOM_CSS           */
+#sidebar #social i {
+    margin-right: 3px;
+}
+
+a, a:hover {
+    color: inherit;
+}
+
+.entry-content a {
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+
+.entry-content a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+.img-left {
+    max-width: 25% !important;
+    height: auto;
+    float:left;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.img-right {
+    max-width: 25% !important;
+    height: auto;
+    float: right;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+.entry-content h1, h2, h3 { clear:both;}
+
+.entry-content img {
+    max-width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.entry-content figcaption, .caption {
+    font-size: small;
+    margin-bottom: 2px;
+}
+
+.summary img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.floatright, .align-right {
+    float: right;
+}
+
+.floatleft, .align-left {
+    float: left;
+}
+
+.floatcenter, .align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure.floatright, .align-right {
+    margin-left: 4px;
+}
+
+figure.floatleft, .align-left {
+    margin-right: 4px;
+}
+
+figure.floatcenter, .align-center {
+    margin-bottom: 11px;
+}
+
+.highlighttable pre {
+    /* Removes bootstrap default margin-bottom */
+    margin-bottom: 0px;
+}
+
+.highlighttable {
+    /* Adds them margin-bottom to highlightable instead of <pre> */
+    margin-bottom: 11px;
+}
+
+.highlighttable {
+    width: 100%;
+}
+
+#categories ul, #tags ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 0;
+}
+
+.docutils.footnote td.label {
+    display: table-cell;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    color: inherit;
+    text-align: inherit;
+    white-space: inherit;
+    border-radius: inherit;
+}
+
+.categories-timestamp {
+    color: #AAAAAA;
+    font-size: 0.9em;
+    margin-right: 10px;
+}
+
+.tagcloud li {
+    padding: 0px;
+}
+
+#banner {
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: scroll;
+    background-size: cover; 
+    background-color: #C4C4C4;
+    margin: 0 0 20px;
+    padding: 70px 0; /*controls padding around inner text*/
+    position: relative;
+}
+
+#banner .copy {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);
+    display: inline;
+    float: left;
+    max-width: 600px;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+#banner h1 {
+    color: #fff;
+    font-family: "HelveticaNeue-CondensedBold","Helvetica Neue CE 600 Condensed","Helvetica Neue LT Condensed","Helvetica Neue 600 Condensed","HelveticaNeue-BoldCondensed","Helvetica Neue BoldCondensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 60px;
+    font-stretch: condensed;
+    font-weight: 700;
+    line-height: 0.9;
+    margin: 0;
+    text-transform: uppercase;
+}
+#banner .intro {
+    color: #fff;
+    font-size: 21px;
+    line-height: 1.33;
+    opacity: 0.75;
+}
+#banner .btn, #banner .intro {
+    margin-left: 4px;
+}
+
+/* Solutions for mobile and small screens  */
+@media (max-width: 650px) {
+    #banner h1{
+       font-size: 30px; /* !important;*/
+    }
+    #banner .intro{
+        font-size: 16px;
+    }
+}
+
+
+
+
+
+
+
+body { font-family:'Roboto Slab'; font-size:16px; letter-spacing:0.3px; background-color:#e7eebd; }
+.navbar { background-color:#bfca87; border-color:#9daa5b;}
+.navbar .navbar-nav>li>a { color:rgb(51,51,51); }
+.navbar .navbar-right>li>a { font-size:1.4em; }
+.navbar-brand { padding-top:5px; padding-bottom:0; }
+
+.text-black { color:#000000; }
+.text-magenta { color:#6c2940; }
+.text-dark-blue { color:#403578; }
+.text-purple { color:#d93cf0; }
+.text-dark-green { color:#135740; }
+.text-grey { color:#808080; }
+.text-medium-blue { color:#2697f0; }
+.text-light-blue { color:#bfb4f8; }
+.text-brown { color:#404b07; }
+.text-orange { color:#d9680f; }
+.text-pink { color:#eca8bf; }
+.text-green { color:#26c30f; }
+.text-yellow { color:#bfca87; }
+.text-aqua { color:#93d6bf; }
+.text-white { color:#ffffff; }
+
+.bg-black { background-color:#000000; }
+/*
+#7f7e7e
+#464646
+#000000
+#030101
+*/
+.bg-magenta { background-color:#6c2940; }
+/*
+#a9687e
+#88455b
+#53152a
+#360515
+*/
+.bg-dark-blue { background-color:#403578; }
+/*
+#8a82b3
+#615795
+#271d5d
+#130a3f
+*/
+.bg-purple { background-color:#d93cf0; }
+/*
+#ec96f8
+#e265f4
+#cf14e9
+#c102dc
+*/
+.bg-dark-green { background-color:#135740; }
+/*
+#4a8c76
+#287059
+#043c2a
+#002418
+*/
+.bg-grey { background-color:#808080; }
+/*
+#dddcdc
+#acacac
+#4e4e4e
+#0a0a0a
+*/
+.bg-medium-blue { background-color:#2697f0; }
+/*
+#7abff4
+#4eabf2
+#0a89eb
+#0468b5
+*/
+.bg-light-blue { background-color:#bfb4f8; }
+/*
+#ffffff
+#e7e2fe
+#9c8bed
+#7966da
+*/
+.bg-brown { background-color:#404b07; }
+/*
+#829136
+#616f1a
+#252c00
+#101300
+*/
+.bg-orange { background-color:#d9680f; }
+/*
+#ffa965
+#f18b39
+#af4f02
+#873c00
+*/
+.bg-pink { background-color:#eca8bf; }
+/*
+#fceef3
+#f6cedb
+#de7e9f
+#b94c71
+*/
+.bg-green { background-color:#26c30f; }
+.bg-green1 { background-color:#70da5f; }
+.bg-green1 a,
+.bg-green1 a:hover { color:#002418; }
+.bg-green2 { background-color:#4dcb39; color:#002418; }
+.bg-green3 { background-color:#1a9806; color:#edfcf6; }
+.bg-green4 { background-color:#107700; color:#edfcf6; }
+/*
+#70da5f
+#4dcb39
+#1a9806
+#107700
+*/
+
+
+
+
+/*
+#4a8c76
+#287059
+#043c2a
+#002418
+*/
+
+
+/*
+#edfcf6
+#c3edde
+#65b89a
+#3f9a7a
+*/
+
+.bg-yellow { background-color:#bfca87; }
+/*
+#f6fae1
+#e7eebd
+#9daa5b
+#7b8738
+*/
+.bg-aqua { background-color:#93d6bf; }
+/*
+#edfcf6
+#c3edde
+#65b89a
+#3f9a7a
+*/
+.bg-white { background-color:#ffffff; }
+/*
+#ffffff
+#ffffff
+#cecece
+#a2a0a0
+*/
+
+.legos { display:block; position:relative; width:80%; max-width:700px; height:20rem; margin:0.5rem auto 2rem; }
+.lego-title { font-size:6rem; height:1.2em; overflow:hidden; }
+.display-none { display:none; }
+.lego a { display:block; width:100%; height:100%; border-radius:1rem; text-decoration:none; text-align:center; font-size:4.2rem; box-shadow: 3px 6px 10px -2px rgba(85, 85, 85, 0.8); }
+.lego a:hover { text-decoration:none; margin-top:-2px; margin-left:-1px; box-shadow: 3px 6px 10px -2px rgba(85, 85, 85, 0.8); }
+.lego-h1 a { line-height:4.6rem; }
+.lego-h2 a { line-height:9.6rem; }
+.lego-h3 a { line-height:14.6rem; }
+.lego-h4 a { line-height:19.6rem; }
+.lego { display:block; position:absolute; }
+.lego-w1 { width:23%; }
+.lego-w2 { width:48%; }
+.lego-w3 { width:73%; }
+.lego-w4 { width:98%; }
+.lego-h1 { height:22.33%; }
+.lego-h2 { height:47.33%; }
+.lego-h3 { height:72.33%; }
+.lego-h4 { height:97.33%; }
+.lego-x1 { left:1%; }
+.lego-x2 { left:26%; }
+.lego-x3 { left:51%; }
+.lego-x4 { left:76%; }
+.lego-y1 { top:1.33%; }
+.lego-y2 { top:26.33%; }
+.lego-y3 { top:51.33%; }
+.lego-y4 { top:76.33%; }
+
+/* Solutions for mobile and small screens  */
+@media (max-width: 768px) {
+    .lego-title,
+    .lego a { font-size:3rem; }
+}
+@media (max-width: 576px) {
+    .legos { width:100%; }
+    .lego-title,
+    .lego a { font-size:2rem; }
+}
+@media (max-width: 440px) {
+    .lego-title,
+    .lego a { font-size:1.5rem; }
+}
+
+.meetup-events { list-style-type:none; padding-left:0; }
+.meetup-event { padding:10px; margin-bottom:30px; border:1px solid #9daa5b; background-color:#fff; }
+.meetup-event-template { display:none; }
+.meetup-event-title { margin-top:0; height:2.4em; line-height:1.2;}
+.meetup-event-content-wrapper {
+    margin-top:1em;
+    min-height:7em;
+    max-height:30em;
+    height:auto;
+    position:relative;
+    -webkit-transition: height 0.5s;
+    transition: max-height 0.5s;
+    overflow:hidden;
+}
+.meetup-event-limited-height {
+    max-height:7em;
+}
+.meetup-event-content { padding-bottom:4em; }
+.meetup-event-show-less,
+.meetup-event-show-more {
+    display:block;
+    width:100%;
+    position:absolute;
+    bottom:0;
+    left:0;
+    background-color:#bfca87;
+    text-align:center;
+    box-shadow:0 -10px 10px 4px rgba(255, 255, 255, 0.9);
+}
+.meetup-event-view-on-meetup {
+    display:block;
+    box-sizing:border-box;
+    padding:4px 0 6px;
+    width:100%;
+    position:absolute;
+    bottom:1.4em;
+    left:0;
+    background-color:#fff;
+    text-align:center;
+    box-shadow:0 -10px 10px 4px rgba(255, 255, 255, 0.9);
+}
+
+.meetup-event-limited-height .meetup-event-view-on-meetup { display:none; }
+.meetup-event-show-less {
+    box-shadow:0 0 0 0 transparent;
+}
+.entry-content a.meetup-event-view-on-meetup,
+.entry-content a.meetup-event-view-on-meetup:hover {
+    border:0 none transparent;
+}
+.entry-content a.meetup-event-view-on-meetup:hover {
+    text-decoration:underline;
+}
+.meetup-event-show-less .meetup-event-show-more-text,
+.meetup-event-show-more .meetup-event-show-less-text { display:none; }
