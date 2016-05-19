@@ -8,7 +8,7 @@ save_as: about.html
 
 **lab·o·ra·to·ry**: a place equipped for experimental study in a science or for testing and analysis;  broadly : a place providing opportunity for experimentation, observation, or practice in a field of study - Merriam-Webster.com
 
-![TheLab.ms](/images/TheLab-Founders.jpg)
+![TheLab.ms]({filename}/images/TheLab-Founders.jpg)
 
 ## What is TheLab.ms?
 
@@ -55,7 +55,7 @@ Our online presence is critical for our members communication and collaboration.
 
 ## Leadership
 
-![TheLab.ms](/images/TheLab-Leadership.jpg)
+![TheLab.ms]({filename}/images/TheLab-Leadership.jpg)
 
 ### Board of Directors
 

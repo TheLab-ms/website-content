@@ -20,6 +20,6 @@ In the past we have held classes on Python, Arduino, Automation, Virtual Reality
 
 Detailed information on each of our upcoming classes can be found on our [Meetup](https://www.meetup.com/TheLab-ms/) page.
  
-<img src="/images/Learn1.jpg" alt="Sratch Class" />
+<img src="{filename}/images/Learn1.jpg" alt="Sratch Class" />
 
 

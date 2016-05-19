@@ -6,7 +6,7 @@ Summary: Contact TheLab.ms
 url: /
 save_as: contact.html
 
-![TheLab.ms](/images/thelab-electric-1440x400.jpg)
+![TheLab.ms]({filename}/images/thelab-electric-1440x400.jpg)
 
 ## Contact TheLab.ms
 

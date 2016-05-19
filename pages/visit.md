@@ -8,7 +8,7 @@ save_as: visit.html
 
 ## Visit Us
 
-<img class="img-right" src="/images/OpenHouse1_tn.jpg" alt="Open House" />
+<img class="img-right" src="{filename}/images/OpenHouse1_tn.jpg" alt="Open House" />
 
 We hold an open house at our Education Center every second Saturday of the Month.
 

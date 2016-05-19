@@ -26,5 +26,5 @@ We want to focus on the following areas:
 
 Be sure to visit us in [Slack](https://thelab.slack.com) or [IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) or [Reddit](http://www.reddit.com/r/TheLab_ms/) to share your ideas!
 
-<img src="/images/Hack1.jpg" alt="Hardware Hacking at TheLab.ms Electronics Lab" />
+<img src="{filename}/images/Hack1.jpg" alt="Hardware Hacking at TheLab.ms Electronics Lab" />
 
