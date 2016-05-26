@@ -21,6 +21,12 @@ All members are free to use our 3D printers at any time.  We stock quality filam
 
 We'd prefer members use the filament we stock--it is higher quality filament and less likely to clog the extruders.  Members can use their own filament, though.  You may want to try something more expensive like BronzeFill or NinjaFlex.  We don't currently have these in stock, so you would have to bring your own.
 
+### TheLab.ms's 3D Printing Resources:
+
+ * [Our 3D Printing Cheat Sheet][c]
+ * [Slic3r Config Bundle][s] for our FlashForge Creator Pro printers
+ * [3D Printing Repo][g] at GitHub
+
 ## Other Projects
 
 We're currently working on an art project that utilizes some of our electronics expertise--The Infinity Cube.  The walls of the cube are 24-inch acrylic sheets lined with reflective material.  This creates a one-way mirror effect.
@@ -28,3 +34,7 @@ We're currently working on an art project that utilizes some of our electronics 
 <img src="{filename}/images/CubeAlpha.jpg" />
 
 The first iteration of the cube was filled with electroluminescent wire.  The "EL" wire looks really cool, and we could definitely do some interesting things with it, but it just isn't bright enough for our purposes.  We're working on assembling a sculpture made of cold-cathode tubes.  The cold cathode tubes are significantly brighter, so you'll definitely be able to see our sculpture from across the parking lot!
+
+[g]: https://github.com/thelab-ms/3d-printing "TheLab.ms 3D Printing Repository at Github"
+[s]: https://github.com/TheLab-ms/3d-printing/blob/master/Slic3r_config_bundle.ini "Slic3r Config Bundle for FlashForge Creator Pro"
+[c]: https://github.com/TheLab-ms/3d-printing/wiki/TheLab.ms's-3D-Printing-Cheat-Sheet "TheLab.ms's 3D Printing Cheat Sheet"
