@@ -98,7 +98,7 @@ Below is a list of the leadership positions with a brief description of each.
     * Currently held by Abby Wheeler
     * The Fundraising Coordinator&acute;s primary responsibilities are to manage all fundraising activities and projects. &nbsp;Working with other officers and directors as well as project leaders to provide a coordinated effort towards fundraising.
 * Facility Coordinator
-    * Currently held by Neil Smith
+    * Currently held by Neil Smith (Interim since Oct 2015)
     * The Facility Coordinator&acute;s primary responsibilities are to manage all tasks regarding to the mainentance, upkeep, and physical security of our facilities. &nbsp;Working with other officers and directors as to provide a coordinated effort towards maintaining our facilities.
 
 &nbsp;
