@@ -73,16 +73,19 @@ Below is a list of the leadership positions with a brief description of each.
 * Chief Legal Officer
     * Currently this position is open
     * The Chief Legal Officer has the responsibility of overseeing all legal aspects of TheLAB.MS. The Chief Legal Officer will advise Officers and Membership when changes are made to applicable laws and ensure that the organization is in compliance with regulatory codes.
-The Chief Legal Officer is required to be an attorney.
-Education Coordinator
-Currently held by Greg Miller
-The Education Coordinator&rsquo;s primary responsibilities are to ensure the smooth and effective functioning of education events and special projects. This involves marketing, planning, and execution of recurring programs as well as assistance in planning for and facilitating one-time events. Responsibilities include presenter and participant outreach and logistics, as well as maintaining the Education Center calendar.
-Chief Technical Officer
-Currently held by Jarrod Frates
-The Chief Technical Officer is responsible for ensuring the maintenance and consistency of the technological infrastructure as needed by the organization. This includes, but is not limited to, the website and internal network of the physical space.
-Fundraising Coordinator
-Currently held by Neil Smith
-The Fundraising Coordinator&acute;s primary responsibilities are to manage all fundraising activities and projects. &nbsp;Working with other officers and directors as well as project leaders to provide a coordinated effort towards fundraising.
+    * The Chief Legal Officer is required to be an attorney.
+* Education Coordinator
+    * Currently held by Greg Miller
+    * The Education Coordinator&rsquo;s primary responsibilities are to ensure the smooth and effective functioning of education events and special projects. This involves marketing, planning, and execution of recurring programs as well as assistance in planning for and facilitating one-time events. Responsibilities include presenter and participant outreach and logistics, as well as maintaining the Education Center calendar.
+* Chief Technical Officer
+    * Currently held by Jarrod Frates
+    * The Chief Technical Officer is responsible for ensuring the maintenance and consistency of the technological infrastructure as needed by the organization. This includes, but is not limited to, the website and internal network of the physical space.
+* Fundraising Coordinator
+    * Currently held by Abby Wheeler
+    * The Fundraising Coordinator&acute;s primary responsibilities are to manage all fundraising activities and projects. &nbsp;Working with other officers and directors as well as project leaders to provide a coordinated effort towards fundraising.
+* Facility Coordinator
+    * Currently held by Neil Smith
+    * The Facility Coordinator&acute;s primary responsibilities are to manage all tasks regarding to the mainentance, upkeep, and physical security of our facilities. &nbsp;Working with other officers and directors as to provide a coordinated effort towards maintaining our facilities.
 
 &nbsp;
 
