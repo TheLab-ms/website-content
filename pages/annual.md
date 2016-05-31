@@ -19,7 +19,7 @@ Voting is open to all voting members and you do not need to be present at the an
 Any member may declare themselves a voting member by meeting the voting member requirements as laid out in our Bylaws.  
 Voting member requirements include among other things showing proof of identification via a goverment issued photo ID, valid contact information, and an agreement to have membership details be disclosed as required by law.
 
-In order to declare yourself a voting member contact leadership@thelab.ms.
+In order to declare yourself a voting member contact [leadership@thelab.ms](mailto:leadership@thelab.ms).
 
 #### Electronic Voting
 
@@ -31,7 +31,7 @@ Each year our membership elects our leadership team.  In this election any membe
 
 Members can proclaim thier intention to run for or nominate someone (who would need to accept this nomination) to run for one or more leadership positions.
 
-Any proclaimations and/or nominations should be sent via email to secretary@thelab.ms or to richard@thelab.ms prior to the annual meeting.
+Any proclaimations and/or nominations should be sent via email to [secretary@thelab.ms](mailto:secretary@thelab.ms) or to [richard@thelab.ms](mailto:richard@thelab.ms) prior to the annual meeting.
 At the annual meeting there will be an oportunity for last minute additions of candidates.
 However, we encourage those interested in running to let us know before the meeting to minimize administrative tasks causing delays at the meeting.
 
@@ -39,7 +39,7 @@ However, we encourage those interested in running to let us know before the meet
 
 Each year our membership votes on proposed changes to our Bylaws.  Any member can submit a proposed change to be voted on.
 
-Any proposed Bylaw changes should be submitted to secretary@thelab.ms or to richard@thelab.ms prior to the annual meeting.
+Any proposed Bylaw changes should be submitted to [secretary@thelab.ms](mailto:secretary@thelab.ms) or to [richard@thelab.ms](mailto:richard@thelab.ms) prior to the annual meeting.
 At the annual meeting there will be an oportunity for last minute proposed Bylaw changes to be submitted.
 However, we encourage anyone with an idea for a proposed Bylaw change to let us know before the meeting to minimize administrative tasks causing delays at the meeting.
 
@@ -51,7 +51,7 @@ However, we expect at least one proposal to change the treasurers buying power b
 Each year our membership votes on other business that has been raised.
 Any voting Member may submit an issue for vote by the membership, unless the issue is specifically enumerated in the bylaws as something subject to vote by the board of directors.
 
-Any proposed issue for vote should be submitted to secretary@thelab.ms or to richard@thelab.ms prior to the annual meeting.
+Any proposed issue for vote should be submitted to [secretary@thelab.ms](mailto:secretary@thelab.ms) or to [richard@thelab.ms](mailto:richard@thelab.ms) prior to the annual meeting.
 At the annual meeting there will be an oportunity for last minute issues to be submitted.
 However, we encourage anyone with an issue to let us know before the meeting to minimize administrative tasks causing delays at the meeting.
 
