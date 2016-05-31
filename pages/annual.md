@@ -35,13 +35,27 @@ Any proclaimations and/or nominations should be sent via email to secretary@thel
 At the annual meeting there will be an oportunity for last minute additions of candidates.
 However, we encourage those interested in running to let us know before the meeting to minimize administrative tasks causing delays at the meeting.
 
-### Bylaw Changes
+### Vote On Bylaw Changes
 
 Each year our membership votes on proposed changes to our Bylaws.  Any member can submit a proposed change to be voted on.
 
 Any proposed Bylaw changes should be submitted to secretary@thelab.ms or to richard@thelab.ms prior to the annual meeting.
 At the annual meeting there will be an oportunity for last minute proposed Bylaw changes to be submitted.
 However, we encourage anyone with an idea for a proposed Bylaw change to let us know before the meeting to minimize administrative tasks causing delays at the meeting.
+
+As the proposed changes are submitted they will be posed here.  Currently there are no proposed changes submitted.
+However, we expect at least one proposal to change the treasurers buying power beyond just saftey equipment.
+
+### Other Business Put To Vote
+
+Each year our membership votes on other business that has been raised.
+Any voting Member may submit an issue for vote by the membership, unless the issue is specifically enumerated in the bylaws as something subject to vote by the board of directors.
+
+Any proposed issue for vote should be submitted to secretary@thelab.ms or to richard@thelab.ms prior to the annual meeting.
+At the annual meeting there will be an oportunity for last minute issues to be submitted.
+However, we encourage anyone with an issue to let us know before the meeting to minimize administrative tasks causing delays at the meeting.
+
+As the other business issues are submitted they will be posed here.  Currently there are no proposed issues submitted.
 
 ### Leadership Positions
 
