@@ -1,6 +1,6 @@
 Title: Brewmaster's Basement
 Date: 2010-12-03 10:20
-Modified: 2016-05-09 19:30
+Modified: 2016-06-01 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: Brewmaster's Basement
 url: /
@@ -90,7 +90,7 @@ While that is a simplistic explanation the reality can be much more complex as t
 
 * Monthly Brew Night Meetup
 * [Brewmaster&#39;s Recipes on BeerSmith](http://beersmithrecipes.com/viewuser/8509/gowenrw)
-* [Brew of the Month Wiki page](https://thelab.ms/wiki/index.php/Brew_Of_The_Month)
+* [Brew of the Month Wiki page](https://old.thelab.ms/wiki/index.php/Brew_Of_The_Month)
 
 &nbsp;
 

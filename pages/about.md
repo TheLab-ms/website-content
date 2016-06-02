@@ -1,6 +1,6 @@
 Title: About TheLab.ms
 Date: 2010-12-03 10:20
-Modified: 2016-05-11 19:30
+Modified: 2016-06-01 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: About TheLab.ms
 url: /
@@ -44,7 +44,7 @@ Our first industrial workshop for woodworking, metalworking, etc.  We are curren
 Our online presence is critical for our members communication and collaboration.  As such we strive to be in all the places our members are.  Here is a list of some of the places you can find us.
 
 [Meetup](https://www.meetup.com/TheLab-ms/) &nbsp;
-[Wiki](https://thelab.ms/wiki/index.php/Main_Page) &nbsp;
+[Wiki](https://old.thelab.ms/wiki/index.php/Main_Page) &nbsp;
 [Facebook](https://www.facebook.com/thelabms) &nbsp;
 [Twitter](https://twitter.com/TheLab_ms) &nbsp;
 [Reddit](http://www.reddit.com/r/TheLab_ms/) &nbsp;
@@ -85,7 +85,7 @@ Here is a list of our current Officers:
 
 ## Bylaws
 
-We publish our [Bylaws](https://thelab.ms/wiki/index.php/Bylaws) and other [Rules](https://thelab.ms/wiki/index.php/Rules) on our [Wiki](https://thelab.ms/wiki/index.php/Main_Page) for easy access by the public at large.
+We publish our [Bylaws](https://old.thelab.ms/wiki/index.php/Bylaws) and other [Rules](https://old.thelab.ms/wiki/index.php/Rules) on our [Wiki](https://old.thelab.ms/wiki/index.php/Main_Page) for easy access by the public at large.
 
 
 ## Thanks

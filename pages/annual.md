@@ -1,6 +1,6 @@
 Title: Annual Meeting 2016
 Date: 2016-05-30 10:20
-Modified: 2016-05-30 10:30
+Modified: 2016-06-01 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2016
 url: /
@@ -16,7 +16,7 @@ The annual meeting is where our voting membership gets to elect our leadership, 
 
 Voting is open to all voting members and you do not need to be present at the annual meeting to vote.
 
-Any member may declare themselves a voting member by meeting the voting member requirements as laid out in our Bylaws.  
+Any member may declare themselves a voting member by meeting the voting member requirements as laid out in our [Bylaws](https://old.thelab.ms/wiki/index.php/Bylaws).  
 Voting member requirements include among other things showing proof of identification via a goverment issued photo ID, valid contact information, and an agreement to have membership details be disclosed as required by law.
 
 In order to declare yourself a voting member contact [leadership@thelab.ms](mailto:leadership@thelab.ms).
@@ -37,7 +37,7 @@ However, we encourage those interested in running to let us know before the meet
 
 ### Vote On Bylaw Changes
 
-Each year our membership votes on proposed changes to our Bylaws.  Any member can submit a proposed change to be voted on.
+Each year our membership votes on proposed changes to our [Bylaws](https://old.thelab.ms/wiki/index.php/Bylaws).  Any member can submit a proposed change to be voted on.
 
 Any proposed Bylaw changes should be submitted to [secretary@thelab.ms](mailto:secretary@thelab.ms) or to [richard@thelab.ms](mailto:richard@thelab.ms) prior to the annual meeting.
 At the annual meeting there will be an oportunity for last minute proposed Bylaw changes to be submitted.

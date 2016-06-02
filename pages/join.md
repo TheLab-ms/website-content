@@ -1,6 +1,6 @@
 Title: Join
 Date: 2010-12-03 10:20
-Modified: 2016-05-11 19:30
+Modified: 2016-06-01 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: TheLab.ms
 url: /
@@ -34,7 +34,7 @@ Save $110 for the year!
 
 ### Membership Agreement
 
-Members of TheLab.ms and their guests must agree and adhere to the [Membership Agreement](https://thelab.ms/wiki/index.php/Membership_Agreement) as a requirement of membership. 
+Members of TheLab.ms and their guests must agree and adhere to the [Membership Agreement](https://old.thelab.ms/wiki/index.php/Membership_Agreement) as a requirement of membership. 
 
 Violation of the membership terms and/or conditions outlined in this membership agreement may result in termination of membership.
 

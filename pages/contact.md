@@ -1,6 +1,6 @@
 ﻿Title: Contact TheLab.ms
 Date: 2010-12-03 10:20
-Modified: 2016-05-09 19:30
+Modified: 2016-06-01 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: Contact TheLab.ms
 url: /
@@ -40,7 +40,7 @@ You can find us in many places online.
 If you have questions about a class or program or project or event then these online resources should help:
 
 [Meetup](https://www.meetup.com/TheLab-ms/) &nbsp;
-[Wiki](https://thelab.ms/wiki/index.php/Main_Page) &nbsp;
+[Wiki](https://old.thelab.ms/wiki/index.php/Main_Page) &nbsp;
 [Facebook](https://www.facebook.com/thelabms) &nbsp;
 [Google+](https://plus.google.com/+TheLabMs/) &nbsp;
 [Github](https://github.com/TheLab-ms) &nbsp;
