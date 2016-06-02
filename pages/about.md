@@ -98,7 +98,7 @@ Our founding members have been very supportive, as well as the local security gr
 [Dallas NAISG](https://thelab.ms/dallas.naisg.org) &nbsp;
 [CryptopartyDFW](http://www.wtftacos.com/) &nbsp;
 
-We also want to thank Daedalus Education for allowing us to use their space prior to us opening our Education Center.
+We also want to thank [Daedalus Education](http://daedaluseducation.com/) for allowing us to use their space prior to us opening our Education Center.
 
 
 
