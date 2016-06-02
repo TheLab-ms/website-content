@@ -1,6 +1,6 @@
 ﻿Title: Contact TheLab.ms
 Date: 2010-12-03 10:20
-Modified: 2016-06-01 19:30
+Modified: 2016-06-01 19:50
 Authors: Pat Regan, Richard Gowen
 Summary: Contact TheLab.ms
 url: /
@@ -20,9 +20,9 @@ If there is a class or event scheduled in [Meetup](https://www.meetup.com/TheLab
 
 General correspondence with the Leadership of TheLab.ms is handled via the [Leadership Email List](mailto:leadership@thelab.ms)
 
-Financial inquiries are handled via the [Treasurer Email](treasurer@thelab.ms)
+Financial inquiries are handled via the [Treasurer Email](mailto:treasurer@thelab.ms)
 
-Questions related to the annual vote and elections, including nominations for director/officer positions or proposed rule changes should be sent to the [Secretary Email](secretary@thelab.ms)
+Questions related to the annual vote and elections, including nominations for director/officer positions or proposed rule changes should be sent to the [Secretary Email](mailto:secretary@thelab.ms)
 
 ### Contact Us By Snail Mail
 
