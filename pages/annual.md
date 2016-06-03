@@ -128,6 +128,90 @@ This list will be updated as new information is submitted.
 
 Insert Table Here
 
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 25%; vertical-align: top; padding: 6px;">
+Office
+</th><th style="width: 25%; vertical-align: top; padding: 6px;">
+Incumbent
+</th><th style="width: 50%; vertical-align: top; padding: 6px;">
+Candidate(s)
+</th></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+President (Director)
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Shawn Porter
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Greg Miller, Pat Regan
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Vice President (Director)
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Roxy Dehart
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Roxy Dehart
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Secretary (Directory)
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Richard Gowen
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Richard Gowen
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Floating (Director) Qty:2
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Tommy Falgout,
+Don Powrie
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Tommy Falgout,
+Don Powrie,
+Shawn Porter
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Treasurer
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Jason Wheeler
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+No One
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Chief Legal Officer
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+No One
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+No One
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Education Coordinator
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Greg Miller
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Pat Regan
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Chief Technical Officer
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Jarrod Frates
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Jarrod Frates,
+Whiskey Neon
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Fundraising Coordinator
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Abby Wheeler
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+No One
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Facility Coordinator
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Neil Smith (Interim since Oct 2015)
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Neil Smith
+</td></tr><tr>
+</tbody></table>
+
 
 <a name="BylawChanges"></a>
 &nbsp;
