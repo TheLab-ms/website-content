@@ -1,6 +1,6 @@
 Title: Annual Meeting 2016
 Date: 2016-05-30 10:20
-Modified: 2016-06-01 10:30
+Modified: 2016-06-02 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2016
 url: /
@@ -27,13 +27,18 @@ Voting will take place electronically via an online ballot.  This ballot will be
 
 ### Election of Leadership Team
 
-Each year our membership elects our leadership team.  In this election any member can run for any leadership role.
+Each year our membership elects our leadership team (directors and officers).  In this election any member can run for any leadership role.
 
 Members can proclaim thier intention to run for or nominate someone (who would need to accept this nomination) to run for one or more leadership positions.
+Members can run for more than one leadership position but may only be elected to one.  So, members running for multiple positions should declare the order of preference for each.
 
 Any proclaimations and/or nominations should be sent via email to [secretary@thelab.ms](mailto:secretary@thelab.ms) or to [richard@thelab.ms](mailto:richard@thelab.ms) prior to the annual meeting.
 At the annual meeting there will be an oportunity for last minute additions of candidates.
 However, we encourage those interested in running to let us know before the meeting to minimize administrative tasks causing delays at the meeting.
+
+As the nominations are submitted they will be posed on this page.
+
+[The list of nominations can be found at the bottom of this page.](#Nominations)
 
 ### Vote On Bylaw Changes
 
@@ -43,8 +48,9 @@ Any proposed Bylaw changes should be submitted to [secretary@thelab.ms](mailto:s
 At the annual meeting there will be an oportunity for last minute proposed Bylaw changes to be submitted.
 However, we encourage anyone with an idea for a proposed Bylaw change to let us know before the meeting to minimize administrative tasks causing delays at the meeting.
 
-As the proposed changes are submitted they will be posed here.  Currently there are no proposed changes submitted.
-However, we expect at least one proposal to change the treasurers buying power beyond just saftey equipment.
+As the proposed bylaws changes are submitted they will be posed on this page.
+
+[The list of proposed bylaw changes can be found at the bottom of this page.](#BylawChanges)
 
 ### Other Business Put To Vote
 
@@ -55,7 +61,9 @@ Any proposed issue for vote should be submitted to [secretary@thelab.ms](mailto:
 At the annual meeting there will be an oportunity for last minute issues to be submitted.
 However, we encourage anyone with an issue to let us know before the meeting to minimize administrative tasks causing delays at the meeting.
 
-As the other business issues are submitted they will be posed here.  Currently there are no proposed issues submitted.
+As the other business issues are submitted they will be posed on this page.
+
+[The list of other business issues can be found at the bottom of this page.](#OtherBusiness)
 
 ### Leadership Positions
 
@@ -100,6 +108,403 @@ Below is a list of the leadership positions with a brief description of each.
 * Facility Coordinator
     * Currently held by Neil Smith (Interim since Oct 2015)
     * The Facility Coordinator&acute;s primary responsibilities are to manage all tasks regarding to the mainentance, upkeep, and physical security of our facilities. &nbsp;Working with other officers and directors as to provide a coordinated effort towards maintaining our facilities.
+
+
+&nbsp;
+
+&nbsp;
+
+
+<a name="Nominations"></a>
+&nbsp;
+
+&nbsp;
+
+### Nominations for Elected Positions
+
+Here is the current list of nominations for all elected positions.
+For positions with multiple candidates the names are listed in the order the nominations were recieved.
+This list will be updated as new information is submitted.
+
+Insert Table Here
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 25%; vertical-align: top; padding: 6px;">
+Office
+</th><th style="width: 25%; vertical-align: top; padding: 6px;">
+Incumbent
+</th><th style="width: 50%; vertical-align: top; padding: 6px;">
+Candidate(s)
+</th></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+President (Director)
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Shawn Porter
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Greg Miller, Pat Regan
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Vice President (Director)
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Roxy Dehart
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Roxy Dehart
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Secretary (Directory)
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Richard Gowen
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Richard Gowen
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Floating (Director) Qty:2
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Tommy Falgout,
+Don Powrie
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Tommy Falgout,
+Don Powrie,
+Shawn Porter
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Treasurer
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Jason Wheeler
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+No One
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Chief Legal Officer
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+No One
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+No One
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Education Coordinator
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Greg Miller
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Pat Regan
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Chief Technical Officer
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Jarrod Frates
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Jarrod Frates,
+Whiskey Neon
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Fundraising Coordinator
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Abby Wheeler
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+No One
+</td></tr><tr>
+<td style="width: 25%; vertical-align: top; padding: 6px;">
+Facility Coordinator
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Neil Smith (Interim since Oct 2015)
+</td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Neil Smith
+</td></tr><tr>
+</tbody></table>
+
+
+<a name="BylawChanges"></a>
+&nbsp;
+
+&nbsp;
+
+### Proposed Bylaw Changes
+
+Here is the current list of the proposed Bylaw changes.
+This list will be updated as new information is submitted.
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+4.2 Annual Meetings
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+The annual meeting shall occur once a year at a time and date set by the board of the directors or by a Vote of the Membership, as defined in these bylaws.
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Set the date here with some scheduling flexibility
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+The annual meeting shall occur once a year on the first Tuesday of June or within ten days of that date at a time and date set by the board of the directors or by a Vote of the Membership, as defined in these bylaws.
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+5.2.1 Issues Proper for a Vote of the Directors
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+spending money from the general fund on infrastructure improvements costing less than $300,
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Removed $300 limit here as this is covered in budget section
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+spending money from the general fund on infrastructure improvements,
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+6 Officers
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+No officer may serve more than three consecutive terms as an officer.
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Rewritten to allow people to persue new roles
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+No officer may serve more than three consecutive terms in the same office.
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+6.3 Elections
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+Elections shall be held every year at the annual meeting of members on the first Tuesday of June.
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Section 4.2 covers the annual meeting date and should be removed here
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+Elections shall be held every year at the annual meeting of members.
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+6.5 Offices
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+no current text
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Add text regarding the officer positions missing from the Bylaws
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+Fundraising Coordinator<br>
+The Fundraising Coordinator´s primary responsibilities are to manage all fundraising activities and projects.  Working with other officers and directors as well as project leaders to provide a coordinated effort towards fundraising.<br>
+Facility Coordinator<br>
+The Facility Coordinator´s primary responsibilities are to manage all tasks regarding to the mainentance, upkeep, and physical security of our facilities.  Working with other officers and directors as to provide a coordinated effort towards maintaining our facilities.<br>
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+6.5.1 Treasurer
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+The Treasurer is empowered to reimburse anyone for the purchase of safety equipment to be dedicated to TheLAB.MS out of the general fund.<br> 
+The Treasurer is also empowered to buy safety equipment for TheLAB.MS directly.<br> 
+The sum of these reimbursements and purchases may not exceed $200 per calendar year or $50 per reimbursement incident or purchase.<br> 
+What constitutes "safety equipment" will be determined by the Treasurer and/or the chair of the safety committee on a case by case basis.<br> 
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Allow Treasurur to make minor purchases beyond saftey equipment with a $500 annual limit
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+The Treasurer is empowered to reimburse anyone for the minor purchase of equipment or supplies to be dedicated to TheLAB.MS out of the general fund.<br> 
+The Treasurer is also empowered to make minor purchases of equipment or supplies for TheLAB.MS directly.<br> 
+The sum of these reimbursements and purchases may not exceed $500 per calendar year or $100 per reimbursement incident or purchase.<br> 
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+6.5.1 Treasurer
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+Whenever a reimbursement or purchase occurs, The treasurer must notify the membership via email what items were 
+reimbursed or purchased by whom and how much they cost.
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Provide the flexibility of other electronic notification means such as website posts
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+Whenever a reimbursement or purchase occurs, The treasurer must notify the membership electronically regarding what items were 
+reimbursed or purchased by whom and how much they cost.
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+7.7.3 Meetings
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+The annual meeting of the board of directors shall be on the third Tuesday in January.
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Provide scheduling flexibility
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+The annual meeting of the board of directors shall be on the third Tuesday in January or within ten days of that date at a time and date set by the board of the directors.
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+7.7.4 Board Budget
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+The board of directors is empowered to spend money from the general fund for any items necessary to maintain the day to day operation of the hackerspace, 
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Changed hackerspace to organization for consistency with other sections.
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+The board of directors is empowered to spend money from the general fund for any items necessary to maintain the day to day operation of the organization, 
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+7.7.4 Board Budget
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+or to reimburse members for their purchases of these items, up to a limit of $1000 per year. <br>
+Reimbursements will be considered upon delivery of the items purchased and the receipt. <br>
+The decision to spend or reimburse under this amendment must be unanimous. <br>
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Need to raise the amount and vote text to reflect our actual operating procedures.
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+or to reimburse members for their purchases of these items, up to a limit of $5000 per year. <br>
+Reimbursements will be considered upon delivery of the items purchased and the receipt. <br>
+The decision to spend or reimburse under this amendment must be approved by a vote of the board. <br>
+</td></tr>
+</tbody></table>
+
+<table style="width: 90%;" align="center" border="1"><tbody><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Bylaw Section
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+Current Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+7.7.4 Board Budget
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+Each expense or reimbursement under this amendment must be reported to the general membership at the next regular meeting and sent to the members via email.
+</td></tr><tr>
+<th style="width: 30%; vertical-align: top; padding: 6px;">
+Reason for Change
+</th><th style="width: 70%; vertical-align: top; padding: 6px;">
+New Text
+</th></tr><tr>
+<td style="width: 30%; vertical-align: top; padding: 6px;">
+Provide the flexibility of other electronic notification means such as website posts
+</td><td style="width: 70%; vertical-align: top; padding: 6px;">
+Each expense or reimbursement under this amendment must be reported to the general membership at the next regular meeting and posted electronically for review.
+</td></tr>
+</tbody></table>
+
+
+<a name="OtherBusiness"></a>
+&nbsp;
+
+&nbsp;
+
+### Other Business Issues
+
+Here is the current list of the other business issues that have been proposed for a vote.
+This list will be updated as new information is submitted.
+
+Insert Table Here
+
+
+&nbsp;
 
 &nbsp;
 
