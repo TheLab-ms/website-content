@@ -1,2 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TheLab.ms</title><link href="http://thelab-ms.github.io/website-content/" rel="alternate"></link><link href="http://thelab-ms.github.io/website-content/feeds/all.atom.xml" rel="self"></link><id>http://thelab-ms.github.io/website-content/</id><updated>2016-05-10T10:20:00-05:00</updated><entry><title>Test Blog</title><link href="http://thelab-ms.github.io/website-content/test-blog.html" rel="alternate"></link><updated>2016-05-10T10:20:00-05:00</updated><author><name>Pat Regan</name></author><id>tag:thelab-ms.github.io,2016-05-10:website-content/test-blog.html</id><summary type="html">&lt;p&gt;This is a test blog post.  Happy New Year.&lt;/p&gt;</summary></entry><entry><title>My super title</title><link href="http://thelab-ms.github.io/website-content/my-super-post.html" rel="alternate"></link><updated>2010-12-05T19:30:00-06:00</updated><author><name>Alexis Metaireau</name></author><id>tag:thelab-ms.github.io,2010-12-03:website-content/my-super-post.html</id><summary type="html">&lt;p&gt;This is the content of my super blog post. More!&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TheLab.ms</title><link href="http://thelab-ms.github.io/website-content/" rel="alternate"></link><link href="http://thelab-ms.github.io/website-content/feeds/all.atom.xml" rel="self"></link><id>http://thelab-ms.github.io/website-content/</id><updated>2016-06-05T10:20:00-05:00</updated><entry><title>Recurring Events at TheLab.ms</title><link href="http://thelab-ms.github.io/website-content/recurring-events-at-thelabms.html" rel="alternate"></link><updated>2016-06-05T10:20:00-05:00</updated><author><name>Roxy D</name></author><id>tag:thelab-ms.github.io,2016-06-05:website-content/recurring-events-at-thelabms.html</id><summary type="html">&lt;p&gt;One of the most common questions we have is "When can I visit thelab.ms?"&lt;/p&gt;
+&lt;p&gt;We've made a point to create enough events that there will always be a good time to stop by at thelab.ms. If you're a member, you'll have 24/7 access and be able to stop by anytime using your key fob! (if you do not have one, please e-mail leadership@thelab.ms)&lt;/p&gt;
+&lt;p&gt;I've split the list up into two parts: Monthly and weekly. You can always view our events at meetup.com/thelab-ms for specific details, as they may change. ALL of these events are open to the public for free.&lt;/p&gt;
+&lt;h3&gt;Monthly:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Upgrade the Space&lt;/strong&gt; - First Sundays. Are you a handy person? Do you like running cables, messing with electric wires, installing fixtures, doing DIY? Or maybe you just want to learn how to do these things? (Practice makes perfect!) This would be the meetup for you. Some very handy and not so handy people showing up to improve our facilities. Plenty to learn and plenty to do!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;3D Printing Coffee Klatch&lt;/strong&gt; - First Tuesdays. This meeting is due to the repeated request to learn how to 3d print, so it's great that Pat has set this up for us! It'll start with a presentation on 3d printing, and then everyone will sit around and chat while drinking coffee (or your beverage of choice.) It's a great opportunity to learn and share ideas around 3d printing. Thanks to our neighbors at Coffee Del Rey, you'll have a different coffee to try out each time (try their coffee of the day!)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;The Automation Society&lt;/strong&gt; - First Thursdays. Learn how to automate your life! This meeting will show you ways to stay organized and automated to keep things running smoothly. It's time for you to take advantage of the technology out there that will make your life easier.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Open House&lt;/strong&gt; - Second Saturdays. This is a great time to just come in and look around. We'll have the 3d printers fired up and soldering irons ready for any projects you want to work on. Bring friends, bring family, and show off the space.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Monthly Meeting&lt;/strong&gt; - Second Monday. Everyone is welcome to attend our monthly membership meeting. It's when we get together to discuss happenings around the space, as well as vote on any issues. At the end of our meetings, we have Fire Talk time, so bring a topic or presentation to discuss if you would like. This is a great chance to bounce ideas off people or show off a presentation to a smaller crowd before submitting a talk to a conference.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Beer Brew&lt;/strong&gt; - Richard hosts a monthly beer brew at his home with a different beer featured each time. Everyone 21+ is invited to attended, even if you are not a member. You can learn to make a variety of beers, and if you're a member you'll be able to brew your own while there!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Fundraising Meeting&lt;/strong&gt; - Fourth Sunday. As we are a non-profit with all unpaid volunteers, this is a very important meeting. Do you know how to raise money and/or apply for grants? Then we REALLY need you here. We also need those that are willing to help us with tasks and keep the makerspace open and funded.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Weekly:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Work at the Lab Friday&lt;/strong&gt; - Known as WoFlFri, we get together Friday mornings to work our day jobs remotely at thelab.ms, followed by lunch. Someone is almost always 3d printing and there are plenty of other distractions as well.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Game Night&lt;/strong&gt; - Every Saturday. We love to play video games on Saturdays and occasionally someone will bring Catan to play as well. If you have any video or board games, feel free to bring them! We've got party games and Atari to play each week.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Project Day&lt;/strong&gt; - Coming to Sundays starting in July. Bring your projects, show off your projects, share your project ideas. A great way to participate in a show and tell without having to visit Kindergarten.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Test Blog</title><link href="http://thelab-ms.github.io/website-content/test-blog.html" rel="alternate"></link><updated>2016-05-10T10:20:00-05:00</updated><author><name>Pat Regan</name></author><id>tag:thelab-ms.github.io,2016-05-10:website-content/test-blog.html</id><summary type="html">&lt;p&gt;This is a test blog post.  Happy New Year.&lt;/p&gt;</summary></entry></feed>
