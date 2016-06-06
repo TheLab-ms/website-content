@@ -1,6 +1,6 @@
 Title: Annual Meeting 2016
 Date: 2016-05-30 10:20
-Modified: 2016-06-02 10:30
+Modified: 2016-06-03 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2016
 url: /
@@ -193,7 +193,6 @@ Chief Technical Officer
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Jarrod Frates
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Jarrod Frates,
 Whiskey Neon
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
@@ -361,7 +360,7 @@ Reason for Change
 New Text
 </th></tr><tr>
 <td style="width: 30%; vertical-align: top; padding: 6px;">
-Allow Treasurur to make minor purchases beyond saftey equipment with a $500 annual limit
+Allow Treasurer to make minor purchases beyond saftey equipment with a $500 annual limit
 </td><td style="width: 70%; vertical-align: top; padding: 6px;">
 The Treasurer is empowered to reimburse anyone for the minor purchase of equipment or supplies to be dedicated to TheLAB.MS out of the general fund.<br> 
 The Treasurer is also empowered to make minor purchases of equipment or supplies for TheLAB.MS directly.<br> 
