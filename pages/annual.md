@@ -24,6 +24,7 @@ In order to declare yourself a voting member contact [leadership@thelab.ms](mail
 #### Electronic Voting
 
 Voting will take place electronically via [THIS ONLINE BALLOT](https://docs.google.com/forms/d/1VTGIZK-SWChfbrESn5L50YkzUxxet8L2qoDHmWdFOjw/viewform).
+
 This ballot is available now.  However, we will only accept votes recieved between 6 PM and 8 PM CT on Sat June 11th.
 Any votes cast outside this window will be discarded as invalid.
 
