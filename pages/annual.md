@@ -1,6 +1,6 @@
 Title: Annual Meeting 2016
 Date: 2016-05-30 10:20
-Modified: 2016-06-04 10:30
+Modified: 2016-06-09 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2016
 url: /
@@ -167,7 +167,6 @@ Tommy Falgout,
 Don Powrie
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Tommy Falgout,
-Don Powrie,
 Shawn Porter
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
