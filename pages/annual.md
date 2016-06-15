@@ -14,7 +14,7 @@ The 2016 annual meeting has concluded.
 
 The meeting minutes complete with vote results are available here:
 
-[Annual_Meeting_2016-06-11](https://old.thelab.ms/wiki/index.php/Annual_Meeting_2016-06-11)
+[Annual_Meeting_2016-06-11](/makers/Annual_Meeting_2016-06-11.html)
 
 
 &nbsp;

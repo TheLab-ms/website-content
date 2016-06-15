@@ -90,7 +90,7 @@ While that is a simplistic explanation the reality can be much more complex as t
 
 * Monthly Brew Night Meetup
 * [Brewmaster&#39;s Recipes on BeerSmith](http://beersmithrecipes.com/viewuser/8509/gowenrw)
-* [Brew of the Month Wiki page](https://old.thelab.ms/wiki/index.php/Brew_Of_The_Month)
+* [Brew of the Month page](/makers/Brew_Of_The_Month.html)
 
 &nbsp;
 

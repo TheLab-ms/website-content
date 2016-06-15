@@ -34,7 +34,7 @@ Save $110 for the year!
 
 ### Membership Agreement
 
-Members of TheLab.ms and their guests must agree and adhere to the [Membership Agreement](https://old.thelab.ms/wiki/index.php/Membership_Agreement) as a requirement of membership. 
+Members of TheLab.ms and their guests must agree and adhere to the [Membership Agreement](/makers/Membership_Agreement.html) as a requirement of membership. 
 
 Violation of the membership terms and/or conditions outlined in this membership agreement may result in termination of membership.
 

@@ -40,7 +40,7 @@ You can find us in many places online.
 If you have questions about a class or program or project or event then these online resources should help:
 
 [Meetup](https://www.meetup.com/TheLab-ms/) &nbsp;
-[Wiki](https://old.thelab.ms/wiki/index.php/Main_Page) &nbsp;
+[Makers](/makers/) &nbsp;
 [Facebook](https://www.facebook.com/thelabms) &nbsp;
 [Google+](https://plus.google.com/+TheLabMs/) &nbsp;
 [Github](https://github.com/TheLab-ms) &nbsp;
