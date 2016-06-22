@@ -63,10 +63,10 @@ We currently have a five director board made up of the President, Vice President
 The directors are elected annually by a vote of the membership.
 Here is a list of our current Board of Directors:
 
-* President - Shawn Porter
+* President - Gregory Miller
 * Vice President - Roxy Dehart
 * Secretary - Richard Gowen
-* Floating - Don Powrie
+* Floating - Shawn Porter
 * Floating - Tommy Falgout
 
 ### Officers
@@ -75,10 +75,10 @@ We currently have six officer positions including Treasurer, Chief Technical Off
 The officers are elected annually by a vote of the membership.
 Here is a list of our current Officers:
 
-* Treasurer - Jason Wheeler
-* Chief Technical Officer - Jarrod Frates
-* Education Coordinator - Gregory Miller
-* Fundraising Coordinator - Abby Wheeler
+* Treasurer - Tinker
+* Chief Technical Officer - WhiskeyNeon
+* Education Coordinator - Pat Regan
+* Fundraising Coordinator - Christina Kearney
 * Facilities Coordinator - Neil Smith
 * Chief Legal Officer - Vacant
 
