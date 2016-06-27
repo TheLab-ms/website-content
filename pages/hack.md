@@ -15,7 +15,7 @@ We want to focus on the following areas:
 * Pentesting lab
 * Monthly CTF (Capture The Flag) events + our ongoing CTF365 team.
     * We&#39;re planning to build a virtual space with CTF events, etc. 
-    * Email our [CTO](mailto:jarrod@thelab.ms) if you want to help set it up!
+    * Email our [CTO](mailto:cto@thelab.ms) if you want to help set it up!
 * Programming group
     * Visit our [Github](https://github.com/TheLab-ms) page if you want to join us
 * Education and tools
