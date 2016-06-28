@@ -92,11 +92,11 @@ We publish our [Bylaws](/makers/Bylaws.html) and other [Rules](/makers/Rules.htm
 
 Our founding members have been very supportive, as well as the local security groups such as:
 
-[Dallas Hackers Association](http://www.meetup.com/Dallas-Hackers-Association) &nbsp;
+[Dallas Hackers Association](https://dallashackers.com) &nbsp;
 [DC214](http://www.dc214.org/) &nbsp;
 [Dallas 2600](http://www.tx2600.info/) &nbsp;
-[Dallas NAISG](https://thelab.ms/dallas.naisg.org) &nbsp;
-[CryptopartyDFW](http://www.wtftacos.com/) &nbsp;
+[North Texas Cyber Security Group](https://www.meetup.com/NTXCSG/) &nbsp;
+[CryptopartyDFW](https://www.meetup.com/Cryptoparty-DFW/) &nbsp;
 
 We also want to thank [Daedalus Education](http://daedaluseducation.com/) for allowing us to use their space prior to us opening our Education Center.
 
