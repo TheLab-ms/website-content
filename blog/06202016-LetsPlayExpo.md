@@ -3,11 +3,11 @@ Date: 2016-06-20 10:20
 Authors: Pat Regan
 Summary: Let's Play Gaming Expo 2016
 
-Last weekend, we took TheLab.ms's [3D printing setup][3d] on the road!  We hauled our friend *badger1*--one of our FlashForge Creator Pro printers--out to the [Let's Play Gaming Expo][lp].  The drive was a short one, because the Plano Centre is only a few miles away.  We had a great time, and we had the opportunity to talk to a lot of people that are close to our Education Center.
+Last weekend, we took TheLab.ms's [3D-printing setup][3d] on the road!  We hauled our friend *badger1*--one of our FlashForge Creator Pro printers--out to the [Let's Play Gaming Expo][lp].  The drive was a short one, because the Plano Centre is only a few miles away.  We had a great time, and we had the opportunity to talk to a lot of people that are close to our Education Center.
 
 ![TheLab.ms booth at the Let's Play Gaming Expo](/images/letsplay3.jpg)
 
-We gave away a pile of 3D printed stuff: translucent Pac-Man, Space Invader, and 1-Up Mushrooms, as well as our 3D printed [cell phone kickstands][ks].  These were all quick and easy prints.  We knew we needed to print something big, fun, and interesting while at our booth.
+We gave away a pile of 3D-printed stuff: translucent Pac-Man, Space Invader, and 1-Up Mushrooms, as well as our 3D-printed [cell phone kickstands][ks].  These were all quick and easy prints.  We knew we needed to print something big, fun, and interesting while at our booth.
 
 ![TheLab.ms's Thinking Trooper giveaway at the Let's Play Gaming Expo](/images/letsplay1.jpg)
 
@@ -21,17 +21,17 @@ As it just so happens, I didn't have to come up with an idea.  Steve from [PolyK
 
 ![A 3D Print from PolyKnight's game InnerSpace](/images/letsplay2.jpg)
 
-We had to go back and forth a few times to get a model that Slic3r wasn't too angry about.  I was more than a little worried that the model would print poorly, and we had some scary issue with the support structures in the early parts of the print, but it worked out better than any of us had hoped!
+We had to go back and forth a few times to get a model that Slic3r wasn't too angry about.  I was more than a little worried that the model would print poorly, and we had some scary issues with the support structures in the early parts of the print, but it worked out better than any of us had hoped!
 
 We didn't fully understand the proportions of the object.  We wanted the print to take about half of the day, and we scaled the model up accordingly.  It ended up being about three inches tall, and it only took about three hours to print.  
 
 If we'd given it a bit more thought, we would have made it even bigger.  The failing support material had me worried about the model's arms, but they printed quite nicely.  The fingers were a bit small, though, but they came out surprisingly well.  If we scaled up the print by 20% or so, I bet they would have come out perfectly!
 
-The white ABS filament is quite difficult to photograph, especially when the model has fine details.  The best shot I took was from before we removed the support material.  The shots I took later were almost completely washed out.  At least I got some nice photos the [Thinking Trooper][tt]!
+The white ABS filament is quite difficult to photograph, especially when the model has fine details.  The best shot I took was from before we removed the support material.  The shots I took later were almost completely washed out.  At least I got some nice photos of the [Thinking Trooper][tt]!
 
 ![The Lost Our Box booth at the Let's Play Gaming Expo](/images/letsplay4.jpg)
 
-We also ran into our friends at [Lost Our Box][lb].  They were busy showing off *Burning Sky*, the new virtual reality game they've been working on.  I didn't get a chance to play--there was a crowd at their booth every time I managed to sneak away from our table, but I'm not worried.  They've been getting together at TheLab.ms to work on their game, and they assured me that I'd get a chance to try it out in the near future!
+We also ran into our friends at [Lost Our Box][lb].  They were busy showing off *Burning Sky*, the new virtual reality game they've been working on.  I didn't get a chance to play--there was a crowd at their booth every time I managed to sneak away from our table--but I'm not worried.  They've been getting together at TheLab.ms to work on their game, and they assured me that I'd get a chance to try it out in the near future!
 
 I may not have gotten to try, but our good friend Tommy Trebuchet--the guy behind our most excellent [SlingFest event][sf]--got a chance to try, and so did his daughter.  Watching Kara experience VR for the first time was a hoot!
 
