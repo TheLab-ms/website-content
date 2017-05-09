@@ -1,6 +1,6 @@
 Title: Annual Meeting 2017
-Date: 2017-05-01 10:20
-Modified: 2017-05-01 10:30
+Date: 2017-05-02 10:20
+Modified: 2017-05-02 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2017
 url: /
@@ -16,8 +16,17 @@ The annual meeting is where our voting membership gets to elect our leadership, 
 ### Date and Time and Location
 
 -   Saturday June 3rd
--   5 PM CDT
+-   6 PM CDT
 -   TheLab.ms Education Center - 1915 N Central Expy #370 Plano, TX 75075
+
+### Agenda
+
+-   Welcome Members
+-   Review the voting process and solicit for voting members not previously declared
+-   Review leadership positions and current nominees; Solicit additional nominations
+-   Review any proposed Bylaws changes
+-   Review any other buisness to be brought to a vote
+-   Online voting opens
 
 ### Voting
 
