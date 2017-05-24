@@ -1,6 +1,6 @@
 Title: Annual Meeting 2017
-Date: 2017-05-02 10:20
-Modified: 2017-05-02 10:30
+Date: 2017-05-03 10:20
+Modified: 2017-05-23 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2017
 url: /
@@ -162,21 +162,21 @@ President (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Greg Miller
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Greg Miller
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Vice President (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Roxy Dehart
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Brian Moses
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Secretary (Directory)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Richard Gowen
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Christina Kearney
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Floating (Director) Qty:2
@@ -184,14 +184,15 @@ Floating (Director) Qty:2
 Tommy Falgout,
 Shawn Porter
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Richard Gowen,
+Pat Regan
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Treasurer
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Open
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Richard Gowen
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Chief Legal Officer
@@ -205,14 +206,14 @@ Education Coordinator
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Pat Regan
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Hermit
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Chief Technical Officer
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Whiskey Neon
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Whiskey Neon
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Fundraising Coordinator
@@ -226,7 +227,7 @@ Facility Coordinator
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Neil Smith
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Thefordness
 </td></tr><tr>
 </tbody></table>
 
