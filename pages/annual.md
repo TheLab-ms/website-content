@@ -184,6 +184,7 @@ Floating (Director) Qty:2
 Tommy Falgout,
 Shawn Porter
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
+Tommy Falgout,
 Richard Gowen,
 Pat Regan
 </td></tr><tr>
