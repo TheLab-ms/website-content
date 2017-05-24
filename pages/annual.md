@@ -1,6 +1,6 @@
 Title: Annual Meeting 2017
 Date: 2017-05-23 10:20
-Modified: 2017-05-24 10:30
+Modified: 2017-05-24 11:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2017
 url: /
@@ -167,7 +167,8 @@ Vice President (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Roxy Dehart
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Brian Moses
+Brian Moses,
+Pat Regan
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Secretary (Directory)
