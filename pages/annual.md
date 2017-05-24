@@ -1,6 +1,6 @@
 Title: Annual Meeting 2017
-Date: 2017-05-03 10:20
-Modified: 2017-05-23 10:30
+Date: 2017-05-23 10:20
+Modified: 2017-05-24 10:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2017
 url: /
@@ -146,8 +146,6 @@ Below is a list of the leadership positions with a brief description of each.
 Here is the current list of nominations for all elected positions.
 For positions with multiple candidates the names are listed in the order the nominations were recieved.
 This list will be updated as new information is submitted.
-
-Insert Table Here
 
 <table style="width: 90%;" align="center" border="1"><tbody><tr>
 <th style="width: 25%; vertical-align: top; padding: 6px;">
