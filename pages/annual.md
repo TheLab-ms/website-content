@@ -1,6 +1,6 @@
 Title: Annual Meeting 2017
 Date: 2017-05-23 10:20
-Modified: 2017-05-24 11:30
+Modified: 2017-05-31 11:30
 Authors: Richard Gowen
 Summary: Annual Meeting 2017
 url: /
@@ -206,7 +206,8 @@ Education Coordinator
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Pat Regan
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Hermit
+Hermit,
+Tanner Hennis
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Chief Technical Officer
