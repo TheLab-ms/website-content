@@ -1,7 +1,7 @@
 Title: About TheLab.ms
 Date: 2010-12-03 10:20
-Modified: 2016-06-01 19:30
-Authors: Pat Regan, Richard Gowen
+Modified: 2018-02-01 19:30
+Authors: Richard Gowen
 Summary: About TheLab.ms
 url: /
 save_as: about.html
@@ -64,9 +64,9 @@ The directors are elected annually by a vote of the membership.
 Here is a list of our current Board of Directors:
 
 * President - Gregory Miller
-* Vice President - Roxy Dehart
+* Vice President - Olivia Snyder
 * Secretary - Richard Gowen
-* Floating - Shawn Porter
+* Floating - Paul Ingendorf
 * Floating - Tommy Falgout
 
 ### Officers
@@ -75,11 +75,11 @@ We currently have six officer positions including Treasurer, Chief Technical Off
 The officers are elected annually by a vote of the membership.
 Here is a list of our current Officers:
 
-* Treasurer - Tinker
+* Treasurer - Vacant
 * Chief Technical Officer - WhiskeyNeon
-* Education Coordinator - Pat Regan
-* Fundraising Coordinator - Christina Kearney
-* Facilities Coordinator - Neil Smith
+* Education Coordinator - Vacant
+* Fundraising Coordinator - Vacant
+* Facilities Coordinator - James Ford
 * Chief Legal Officer - Vacant
 
 
@@ -98,7 +98,6 @@ Our founding members have been very supportive, as well as the local security gr
 [North Texas Cyber Security Group](https://www.meetup.com/NTXCSG/) &nbsp;
 [CryptopartyDFW](https://www.meetup.com/Cryptoparty-DFW/) &nbsp;
 
-We also want to thank [Daedalus Education](http://daedaluseducation.com/) for allowing us to use their space prior to us opening our Education Center.
 
 
 
