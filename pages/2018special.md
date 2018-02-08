@@ -1,6 +1,6 @@
 Title: Special Meeting 2018
 Date: 2018-02-02 10:20
-Modified: 2018-02-08 11:30
+Modified: 2018-02-08 14:30
 Authors: Richard Gowen
 Summary: Special Meeting 2018
 url: /
@@ -40,7 +40,7 @@ In order to declare yourself a voting member contact [vote@thelab.ms](mailto:vot
 
 #### Proxy Voting
 
-Voting will take place at the lab space via and electronic ballot (link to be provided to members at the meeting).  If a voting member wishes to vote but cannot attend the meeting in person they can vote by proxy.
+Voting will take place at the lab space via an electronic ballot (link to be provided to members at the meeting).  If a voting member wishes to vote but cannot attend the meeting in person they can vote by proxy.
 This will require an email be sent to [secretary@thelab.ms](mailto:secretary@thalab.ms) to declare your intention to vote by proxy, state which issues/positions you intend to vote on by proxy, and state how you intend to vote on each issue/position.    
 
 [A Proxy Vote Email Form can be found at the bottom of this page.](#ProxyEmailForm)
@@ -91,6 +91,8 @@ As the nominations are submitted they will be posed on this page.
 
 [The list of nominations can be found at the bottom of this page.](#Nominations)
 
+[Information about the nominees can be found at the bottom of this page.](#AboutNominees)
+
 ### Vote On Bylaw Changes
 
 Each year our membership votes on proposed changes to our [Bylaws](https://thelab.ms/makers/Bylaws.html).  Any member can submit a proposed change to be voted on.
@@ -138,7 +140,6 @@ Below is a list of the leadership positions that are vacant or are expected to b
 &nbsp;
 
 &nbsp;
-
 
 <a name="Nominations"></a>
 &nbsp;
@@ -202,7 +203,8 @@ Treasurer
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Open
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Kevin Horn
+Kevin Horn,
+Ryan Elliott
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Chief Legal Officer
@@ -242,6 +244,7 @@ James Ford - THIS POSITION WILL NOT BE VACANT OR UP FOR VOTE
 </td></tr><tr>
 </tbody></table>
 
+&nbsp;
 
 <a name="BylawChanges"></a>
 &nbsp;
@@ -276,6 +279,7 @@ TBD
 </td></tr>
 </tbody></table>
 
+&nbsp;
 
 <a name="OtherBusiness"></a>
 &nbsp;
@@ -293,11 +297,7 @@ This list will be updated as new information is submitted.
     * Note that a supplimental rule is not the same as a Bylaw and does not require submission to the State/Fed the way a Bylaw change would.
     * Note that even if this is successfully voted in, this would not effect this current special election
 
-
 &nbsp;
-
-&nbsp;
-
 
 <a name="ProxyEmailForm"></a>
 &nbsp;
@@ -325,6 +325,7 @@ Send the following text to [secretary@thelab.ms](mailto:secretary@thalab.ms) put
     [ ] Paul Ingendorf - "pauldy"
   For the position of Treasurer I would like to vote for
     [ ] Kevin Horn - "khorn"
+    [ ] Ryan Elliott - "crazybeard"
   For the position of Education Coordinator I would like to vote for
     [ ] Olivia Snyder - "olisny"
   For the position of Fundraising Coordinator I would like to vote for
@@ -338,12 +339,60 @@ Send the following text to [secretary@thelab.ms](mailto:secretary@thalab.ms) put
         then they should be elected to both those positions in the same election.
     [ ] Not adding the proposed supplimental rule.
 
-
-
 </pre>
 
+&nbsp;
+
+<a name="AboutNominees"></a>
+&nbsp;
+
+&nbsp;
+
+### About the Nominees
+
+Here is some information about the nominees.  It is listed in the order it was received.
 
 
+James Ford - "The Fordness" - Nominee for President
+
+>James is a maker. He has been making things since he was a little kid, sitting on the bedroom floor with his big brother, a soldering iron, and a bag full of parts from radioshack. 
+>
+>Since then, he has dabbled in modding and repairing electronics, a little bit of programing, carpentry, auto mechanics, metal working, leatherworking, and most recently, learning 3d printing, vinyl cutting and laser cutting at thelab. 
+>
+>What James feels is his most valuable contribution to thelab is the introduction and onboarding of new members and training them in the use of our equipment. 
+>
+>James has demonstrated his committment to the space as our Facilities Coordinator, organizing multiple improvment projects including upgrading the lighting throughout the space and aquiring matching chairs for our classroom as well as overseeing the day to day operations, security and cleanliness of the space. 
+>
+>If elected, James promises to bring the same passion and committment to the office of President of thelab.
+
+
+Andy Michaels - "lego" - Nominee for Fundraising Coordinator
+
+>What I like to make: Microcontroller projects, Music-related stuff
+>
+>Desired Position: Fundraising Coordinator
+>
+>Why You Should Vote for Me: I will work with the membership and leadership to develop and execute a plan to help fund the lab's basic needs as well as special projects and future goals.
+
+
+Olivia Snyder - "olisny" - Nominee for Vice President and Education Coordinator
+
+>Who are you?
+>
+>I’m Olivia. I am a self-described jack-of-all-trades as I have my hands in a little bit of everything. I’ve was a freelance graphic designer and web designer for 15+ years, I ran my own face painting business for 10 years, and I managed a paint-your-own pottery shop for almost 5. During that time, I worked with various non-profit organizations, from working with folks at special abilities camps to stuffing envelopes to giving historical tours.
+>
+>What do you do?
+>Currently, I focus my efforts on my pottery and art. I run my pottery and art shop, Faerie Hive; the Lab is the sole beneficiary of any volunteer efforts and philanthropy I can offer. What attracts me to the Lab is the enormous potential for utilizing a lot of the tech-based making tools to empower everyone to create amazing things, not to mention the vast pool of expertise in various fields each member brings to collaborations. I love the Lab and love to help people learn new things!
+>
+>Why should I vote for you? 
+>I’ve both learned how to delegate AND how to say no. It is my desire to both organize and promote the Lab in a manner it so deserves. As vice president, I intend to up our presence locally, by forming relationships with the city, relevant local entities, and the public at large. The Lab is only as strong as the members. My skill set and experience in producing visual paraphernalia as well as friendly public relations is more than apropos in helping the Lab find reach members and grow into a strong, stable entity.
+
+More Nominee Bios to be added as they arrive.
+
+
+&nbsp;
+
+&nbsp;
 
 Be sure to visit us in [Slack](https://thelab.slack.com) or [IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) or [Reddit](http://www.reddit.com/r/TheLab_ms/) to share your ideas!
 
