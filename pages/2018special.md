@@ -1,6 +1,6 @@
 Title: Special Meeting 2018
 Date: 2018-02-02 10:20
-Modified: 2018-02-02 11:30
+Modified: 2018-02-07 11:30
 Authors: Richard Gowen
 Summary: Special Meeting 2018
 url: /
@@ -40,7 +40,10 @@ In order to declare yourself a voting member contact [vote@thelab.ms](mailto:vot
 
 #### Proxy Voting
 
-Voting will take place at the lab space either electronically or via paper ballot (method TBD).  If a voting member wishes to vote but cannot attend the meeting in person they can vote by proxy.  This will require an email be sent to secretart@thalab.ms to declare your intention to vote by proxy.  Instructions will be sent back on how to cast votes at that time (might be an online link or require an email, TBD)
+Voting will take place at the lab space via and electronic ballot (link to be provided to members at the meeting).  If a voting member wishes to vote but cannot attend the meeting in person they can vote by proxy.
+This will require an email be sent to [secretary@thelab.ms](mailto:secretary@thalab.ms) to declare your intention to vote by proxy, state which issues/positions you intend to vote on by proxy, and state how you intend to vote on each issue/position.    
+
+[A Proxy Vote Email Form can be found at the bottom of this page.](#ProxyEmailForm)
 
 ### Current State of Leadership Team
 
@@ -183,7 +186,8 @@ Floating 1 of 2 (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Paul Ingendorf
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Brandon Hansford
+Brandon Hansford,
+Paul Ingendorf
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Floating 2 of 2 (Director) 
@@ -218,7 +222,8 @@ Chief Technical Officer (Expected to be vacated by resignation or vote)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Whiskey Neon
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Paul Ingendorf
+Paul Ingendorf,
+Brian Mork
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Fundraising Coordinator
@@ -283,11 +288,58 @@ This list will be updated as new information is submitted.
 
 * To remove the current Chief Technology Officer for abandoning his responsibilities.
     * To conditionally elect a replacement Chief Technology Officer.
+* To add a supplimental rule that states If someone's going to hold two leadership positions, then they should be elected to both those positions in the same election.
+    * Note that a supplimental rule is not the same as a Bylaw and does not require submission to the State/Fed the way a Bylaw change would.
+    * Note that even if this is successfully voted in, this would not effect this current special election
 
 
 &nbsp;
 
 &nbsp;
+
+
+<a name="ProxyEmailForm"></a>
+&nbsp;
+
+&nbsp;
+
+### Proxy Vote Email Form
+
+Anyone who will be proxy voting may wish to cut and paste this text into thier email to help with this process.
+Send the following text to [secretary@thelab.ms](mailto:secretary@thalab.ms) putting an X in each box to indicate your votes. 
+
+<pre>
+  I declare myself to be a voting member who intends to vote by proxy at the upcoming election on Feb 10th.
+  Here are the issues/positions I am casting proxy votes for:
+  For the position of President I would like to vote for 
+    [ ] James Ford - "The Fordness"
+  For the position of Vice President I would like to vote for
+    [ ] Olivia Snyder - "olisny" 
+    [ ] Pavel Shatokhin - "this_many_pavels"
+  For the position of Secretary I would like to vote for
+    [ ] Ryan Elliott - "crazybeard"
+  For the position of Floating Board member I would like to vote for
+    [ ] Brandon Hansford - "brandonhansford"
+    [ ] Paul Ingendorf - "pauldy"
+  For the position of Treasurer I would like to vote for
+    [ ] Kevin Horn - "khorn"
+  For the position of Education Coordinator I would like to vote for
+    [ ] Olivia Snyder - "olisny"
+  For the position of Fundraising Coordinator I would like to vote for
+    [ ] Andy Michaels - "lego"
+  On the proposal to remove the current CTO and elect a replacement I would like to vote for
+    [ ] Removing the current CTO and instating Paul Ingendorf - "pauldy"
+    [ ] Removing the current CTO and instating Brian Mork - "Hermit" 
+    [ ] Keeping the current CTO WhiskeyNeon - "whiskeyneon"
+  On the proposal to add a supplimental rule I would like to vote for
+    [ ] Adding a supplimental rule that states If someone's going to hold two leadership positions, 
+        then they should be elected to both those positions in the same election.
+    [ ] Not adding the proposed supplimental rule.
+
+
+
+</pre>
+
 
 
 
