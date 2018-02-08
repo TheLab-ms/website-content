@@ -1,6 +1,6 @@
 Title: Special Meeting 2018
 Date: 2018-02-02 10:20
-Modified: 2018-02-07 11:30
+Modified: 2018-02-08 11:30
 Authors: Richard Gowen
 Summary: Special Meeting 2018
 url: /
@@ -179,7 +179,8 @@ Secretary (Directory)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Richard Gowen
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Ryan Elliott
+Ryan Elliott,
+Pavel Shatokhin
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Floating 1 of 2 (Director) 
@@ -318,6 +319,7 @@ Send the following text to [secretary@thelab.ms](mailto:secretary@thalab.ms) put
     [ ] Pavel Shatokhin - "this_many_pavels"
   For the position of Secretary I would like to vote for
     [ ] Ryan Elliott - "crazybeard"
+    [ ] Pavel Shatokhin - "this_many_pavels"
   For the position of Floating Board member I would like to vote for
     [ ] Brandon Hansford - "brandonhansford"
     [ ] Paul Ingendorf - "pauldy"
