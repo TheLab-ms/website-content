@@ -1,6 +1,6 @@
 Title: Special Election 2018
 Date: 2018-02-08 10:20
-Modified: 2018-02-09 13:30
+Modified: 2018-02-09 13:40
 Authors: Richard Gowen
 Summary: Special Election 2018
 url: /
@@ -444,6 +444,15 @@ Kevin Horn - "khorn" - Nominee for Treasurer
 >At present, I feel I can do these things best as Treasurer of The Lab.  Please vote for me and help me help The Lab.
 >
 >Thanks!
+
+
+Paul Ingendorf - "pauldy" - Nominee for Floating Board member and CTO
+
+>A technologist of 30+ years with business and technical experience across the board in running small to medium sized companies and their networks.  I’ve done many startups and bootstrapped them all so I know how to work within the tightest of resources constraints for maximum results and thinking outside the box when the unexpected comes up.
+>
+>My motivation in running for the positions of CTO and Floating Board Member is to be able to put my technical expertise to work in the role of the CTO and my business expertise to work in the role of Floating Board Member serving the members and helping to directly influence the direction of TheLab.ms to put it on a steady growth path. I will make sure the resource requirements are met for TheLab.ms.  I will make sure the services provided by the lab are worthy of our members dues, this includes both the educational and maker services.  I'm committed to the positions I have been nominated to and will make efficient use of all the resources at my disposal to serve the membership and the needs of TheLab.ms.
+>
+>I look forward to serving all the members of the lab should you chose me this coming Saturday and over the next four months validating your confidence in me.
 
 
 More Nominee Bios to be added as they arrive.
