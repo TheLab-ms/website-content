@@ -1,8 +1,8 @@
-Title: Special Meeting 2018
-Date: 2018-02-02 10:20
-Modified: 2018-02-08 14:30
+Title: Special Election 2018
+Date: 2018-02-08 10:20
+Modified: 2018-02-08 19:30
 Authors: Richard Gowen
-Summary: Special Meeting 2018
+Summary: Special Election 2018
 url: /
 save_as: 2018special.html
 
@@ -165,7 +165,8 @@ President (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Greg Miller
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-James Ford
+James Ford,
+Greg Miller
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Vice President (Director)
@@ -293,8 +294,8 @@ This list will be updated as new information is submitted.
 
 * To remove the current Chief Technology Officer for abandoning his responsibilities.
     * To conditionally elect a replacement Chief Technology Officer.
-* To add a supplimental rule that states If someone's going to hold two leadership positions, then they should be elected to both those positions in the same election.
-    * Note that a supplimental rule is not the same as a Bylaw and does not require submission to the State/Fed the way a Bylaw change would.
+* To add a supplemental rule that states If someone's going to hold two leadership positions, then they should be elected to both those positions in the same election.
+    * Note that a supplemental rule is not the same as a Bylaw and does not require submission to the State/Fed the way a Bylaw change would.
     * Note that even if this is successfully voted in, this would not effect this current special election
 
 &nbsp;
@@ -313,7 +314,8 @@ Send the following text to [secretary@thelab.ms](mailto:secretary@thalab.ms) put
   I declare myself to be a voting member who intends to vote by proxy at the upcoming election on Feb 10th.
   Here are the issues/positions I am casting proxy votes for:
   For the position of President I would like to vote for 
-    [ ] James Ford - "The Fordness"
+    [ ] Greg Miller - "GeekPatrolMiller"
+    [ ] James Ford - "thefordness"
   For the position of Vice President I would like to vote for
     [ ] Olivia Snyder - "olisny" 
     [ ] Pavel Shatokhin - "this_many_pavels"
@@ -334,10 +336,10 @@ Send the following text to [secretary@thelab.ms](mailto:secretary@thalab.ms) put
     [ ] Removing the current CTO and instating Paul Ingendorf - "pauldy"
     [ ] Removing the current CTO and instating Brian Mork - "Hermit" 
     [ ] Keeping the current CTO WhiskeyNeon - "whiskeyneon"
-  On the proposal to add a supplimental rule I would like to vote for
-    [ ] Adding a supplimental rule that states If someone's going to hold two leadership positions, 
+  On the proposal to add a supplemental rule I would like to vote for
+    [ ] Adding a supplemental rule that states If someone's going to hold two leadership positions, 
         then they should be elected to both those positions in the same election.
-    [ ] Not adding the proposed supplimental rule.
+    [ ] Not adding the proposed supplemental rule.
 
 </pre>
 
@@ -353,7 +355,7 @@ Send the following text to [secretary@thelab.ms](mailto:secretary@thalab.ms) put
 Here is some information about the nominees.  It is listed in the order it was received.
 
 
-James Ford - "The Fordness" - Nominee for President
+James Ford - "thefordness" - Nominee for President
 
 >James is a maker. He has been making things since he was a little kid, sitting on the bedroom floor with his big brother, a soldering iron, and a bag full of parts from radioshack. 
 >
@@ -386,6 +388,42 @@ Olivia Snyder - "olisny" - Nominee for Vice President and Education Coordinator
 >
 >Why should I vote for you? 
 >I’ve both learned how to delegate AND how to say no. It is my desire to both organize and promote the Lab in a manner it so deserves. As vice president, I intend to up our presence locally, by forming relationships with the city, relevant local entities, and the public at large. The Lab is only as strong as the members. My skill set and experience in producing visual paraphernalia as well as friendly public relations is more than apropos in helping the Lab find reach members and grow into a strong, stable entity.
+
+
+Ryan Elliott - "crazybeard" - Nominee for Secretary and Treasurer
+
+>Hi Ryan Elliott here. Many of you know me as crazybeard, and let me tell you my beard is in fact crazy. The other day it jumped off of my face, jumped over 7 burning cars on a motorcycle, and came home after the sun came up smelling like alcohol and indecency. It's also been known to pick up and curl a 300lb barbell, arm wrestle with bears, chop down trees, and one time it freed Norway from a giant troll.
+>
+>The beard has recently decided that it wants to run for a leadership position of the lab, presumably because it can no longer stand idly by and watch small girly men get scared of some numbers on a page. If elected the beard intends to roundhouse kick the problems to the curb just like Chuck Norris. 
+>
+>Help the beard to help the lab. A vote Ryan Elliott is a vote for the crazybeard. 
+
+
+Greg Miller - "GeekPatrolMiller" - Nominee for President
+
+>Greg is a wisened, grizzled member of many positions of authority, elected and otherwise.  
+>
+>Greg once personally wrestled an armed drone and saved his fellow TheLab members from it's voracious blades of doom.
+>
+>Greg doesn't need your help in gathering batteries.  
+>
+>Vote for Greg
+
+
+Pavel Shatokhin - "this_many_pavels" - Nominee for Vice President and Secretary
+
+>My name is Pavel, I'm a game developer, I'm interested in electronics and robotics, and I have been a member of the lab for almost two years. You may know me as that guy who teaches Blender every other Tuesday, and I have volunteered and participated in many of the lab's events. If you have been here in the evening you've probably met me as I am here nearly every day after work working on projects.
+>
+>I am running for Vice President/Secretary to ensure that everyone has a place at the lab regardless of one's interests and background. The lab has been a home away from home for me, and I hope to make it the same for you. As a board member I will work with The Lab's Leadership to make sure that everyone can continue to pursue their hobbies in a safe and welcoming environment while expanding the variety of activities that the lab offers. I want to help bring in more equipment, more classes, and more events to build The Lab's capabilities, community, and membership. I also want to foster better communication between membership and leadership and make sure your concerns and ideas are heard. Vote Pavel 2018.
+>
+>TL;DR
+>
+>1) Keep the doors open, the lights on.
+>2) Utilize our space to the maximum.
+>3) Expand  equipment, activities, and events lab offers.
+>4) Get everyone to get along.
+
+
 
 More Nominee Bios to be added as they arrive.
 
