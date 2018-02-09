@@ -1,6 +1,6 @@
 Title: Special Election 2018
 Date: 2018-02-08 10:20
-Modified: 2018-02-09 13:40
+Modified: 2018-02-09 13:50
 Authors: Richard Gowen
 Summary: Special Election 2018
 url: /
@@ -41,7 +41,7 @@ In order to declare yourself a voting member contact [vote@thelab.ms](mailto:vot
 #### Proxy Voting
 
 Voting will take place at the lab space via an electronic ballot (link to be provided to members at the meeting).  If a voting member wishes to vote but cannot attend the meeting in person they can vote by proxy.
-This will require an email be sent to [secretary@thelab.ms](mailto:secretary@thalab.ms) to declare your intention to vote by proxy, state which issues/positions you intend to vote on by proxy, and state how you intend to vote on each issue/position.    
+This will require an email be sent to [secretary@thelab.ms](mailto:secretary@thelab.ms) to declare your intention to vote by proxy, state which issues/positions you intend to vote on by proxy, and state how you intend to vote on each issue/position.    
 
 [A Proxy Vote Email Form can be found at the bottom of this page.](#ProxyEmailForm)
 
@@ -308,7 +308,7 @@ This list will be updated as new information is submitted.
 ### Proxy Vote Email Form
 
 Anyone who will be proxy voting may wish to cut and paste this text into thier email to help with this process.
-Send the following text to [secretary@thelab.ms](mailto:secretary@thalab.ms) putting an X in each box to indicate your votes. 
+Send the following text to [secretary@thelab.ms](mailto:secretary@thelab.ms) putting an X in each box to indicate your votes. 
 
 <pre>
   I declare myself to be a voting member who intends to vote by proxy at the upcoming election on Feb 10th.
