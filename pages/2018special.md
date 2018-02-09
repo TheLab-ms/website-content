@@ -1,6 +1,6 @@
 Title: Special Election 2018
 Date: 2018-02-08 10:20
-Modified: 2018-02-08 19:30
+Modified: 2018-02-09 11:30
 Authors: Richard Gowen
 Summary: Special Election 2018
 url: /
@@ -423,6 +423,14 @@ Pavel Shatokhin - "this_many_pavels" - Nominee for Vice President and Secretary
 >3) Expand  equipment, activities, and events lab offers.
 >4) Get everyone to get along.
 
+
+Brian Mork - "Hermit" 
+
+>Who I am: I'm currently the CISO of a Fortune 500 company, and remain the co-founder of a competitive hacking group (CTF competitions).  I'm also a former trainer at TheLab... more generally, I'm a father, husband, hacker, and gamer (in that order) with a passion for information security and finding new ways of doing things.
+>
+>What I like to do: Right now I'm most heavily involved in firmware exploitation, playing with extraction and vulnerability enumeration, but my background comes from DoD space with software and OS exploitation, as well as electronics intelligence and RF simulation.
+>
+>Why me: I've been a member for several years, and participated where I can, but I'd like to see us take TheLab to a new place.  In particular, I'd like to introduce a little structure into things, like better power distribution to the teaching spaces, integrated help and procedures for tools, an in-house lab environment and CTF accessible to members via a separate network, etc.  This is what I often end up doing for the organizations I work for, and I'd love the opportunity to do the same for TheLab.
 
 
 More Nominee Bios to be added as they arrive.
