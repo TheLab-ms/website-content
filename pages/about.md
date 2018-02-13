@@ -65,8 +65,8 @@ Here is a list of our current Board of Directors:
 
 * President - Gregory Miller
 * Vice President - Olivia Snyder
-* Secretary - Richard Gowen
-* Floating - Paul Ingendorf
+* Secretary - Pavel Shatokhin
+* Floating - Brandon Hansford
 * Floating - Tommy Falgout
 
 ### Officers
@@ -75,10 +75,10 @@ We currently have six officer positions including Treasurer, Chief Technical Off
 The officers are elected annually by a vote of the membership.
 Here is a list of our current Officers:
 
-* Treasurer - Vacant
-* Chief Technical Officer - WhiskeyNeon
-* Education Coordinator - Vacant
-* Fundraising Coordinator - Vacant
+* Treasurer - Kevin Horn
+* Chief Technical Officer - Paul Ingendorf
+* Education Coordinator - Olivia Snyder
+* Fundraising Coordinator - Andy Michaels
 * Facilities Coordinator - James Ford
 * Chief Legal Officer - Vacant
 
