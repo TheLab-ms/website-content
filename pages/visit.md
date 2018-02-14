@@ -1,6 +1,6 @@
 Title: Visit
 Date: 2010-12-03 10:20
-Modified: 2016-05-11 19:31
+Modified: 2016-05-11 19:30
 Authors: Pat Regan, Richard Gowen
 Summary: TheLab.ms
 url: /
@@ -23,6 +23,5 @@ Join in on the fun and make yourself at home.
 If you are having trouble finding us:  We share the same parking lot with Fishmongers and Marinara Pizza and are located next door to Coffee Del Rey.
 
 If you cannot make it to an open house feel free to join us at any other event we have announced on [Meetup](https://www.meetup.com/TheLab-ms/).  You are guaranteed that at least one person will be there that can show you around.
-
 
 
