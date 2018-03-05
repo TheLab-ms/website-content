@@ -14,7 +14,7 @@ TheLab.ms is made up of volunteers and people who are willing to share knowledge
 
 You do not have to be an expert in a topic to share what you know about that topic with others.
 
-We invite anyone who is willing to share their knowledge and/or information on any topic of their liking to contact our [Education Coordinator](mailto:greg@thelab.ms) to set up a time and announcement of the class or presentation.
+We invite anyone who is willing to share their knowledge and/or information on any topic of their liking to contact our [Education Coordinator](mailto:teach@thelab.ms) to set up a time and announcement of the class or presentation.
 
 <img src="{filename}/images/Teach2.jpg" alt="Richard Gowen teaching a class at TheLab.ms" />
 

@@ -1,6 +1,6 @@
 Title: About TheLab.ms
 Date: 2010-12-03 10:20
-Modified: 2018-02-01 19:30
+Modified: 2018-02-16 17:41
 Authors: Richard Gowen
 Summary: About TheLab.ms
 url: /
@@ -82,10 +82,9 @@ Here is a list of our current Officers:
 * Facilities Coordinator - James Ford
 * Chief Legal Officer - Vacant
 
-
 ## Bylaws
 
-We publish our [Bylaws](/makers/Bylaws.html) and other [Rules](/makers/Rules.html) in our [Makers Area](/makers) for easy access by the public at large.
+We publish our [Bylaws](/makers/Bylaws.html) and other [Rules](/makers/Rules.html) in our [Makers Area](/makers/) for easy access by the public at large.
 
 
 ## Thanks
