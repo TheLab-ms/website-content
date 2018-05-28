@@ -1,22 +1,22 @@
-Title: Annual Meeting 2017
+Title: Annual Meeting 2018
 Date: 2017-05-23 10:20
-Modified: 2017-05-31 11:30
-Authors: Richard Gowen
-Summary: Annual Meeting 2017
+Modified: 2018-05-27 19:05
+Authors: Richard Gowen, Paul Ingendorf
+Summary: Annual Meeting 2018
 url: /
 save_as: annual.html
 
-Annual Meeting 2017 Information
+Annual Meeting 2018 Information
 ---------------------------------
 
-This page will provide information regarding the upcoming 2016 Annual Meeting including election procedures, voting requirements, and a description of each position and/or item to be voted on at the meeting.
+This page will provide information regarding the upcoming 2018 Annual Meeting including election procedures, voting requirements, and a description of each position and/or item to be voted on at the meeting.
 
 The annual meeting is where our voting membership gets to elect our leadership, make changes to the bylaws, and raise issues for discussion.
 
 ### Date and Time and Location
 
--   Saturday June 3rd
--   6 PM CDT
+-   Saturday June 9th
+-   3 PM CDT
 -   TheLab.ms Education Center - 1915 N Central Expy #370 Plano, TX 75075
 
 ### Agenda
@@ -46,6 +46,7 @@ Voting will take place electronically via an online ballot.  This ballot will be
 Each year our membership elects our leadership team (directors and officers).  In this election any member can run for any leadership role.
 
 #### Election of Officers
+
 
 Members can proclaim thier intention to run for or nominate someone (who would need to accept this nomination) to run for one or more leadership positions.
 Members can run for more than one officer position but may only be elected to one.  
@@ -160,39 +161,35 @@ President (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Greg Miller
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Greg Miller
+TBD
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Vice President (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Roxy Dehart
+Olivia Snyder
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Brian Moses,
-Pat Regan
+TBD
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
-Secretary (Directory)
+Secretary (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Richard Gowen
+Pavel Shatokhin
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Christina Kearney
+TBD
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Floating (Director) Qty:2
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Tommy Falgout,
-Shawn Porter
+Tommy Falgout, Brandon Hansford
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Tommy Falgout,
-Richard Gowen,
-Pat Regan
+TBD
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Treasurer
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Open
+Kevin Horn
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Richard Gowen
+TBD
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Chief Legal Officer
@@ -204,31 +201,30 @@ TBD
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Education Coordinator
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Pat Regan
+Olivia Snyder
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Hermit,
-Tanner Hennis
+TBD
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Chief Technical Officer
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Whiskey Neon
+Paul Ingendorf
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Whiskey Neon
+TBD
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Fundraising Coordinator
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Chris Kearney
+Andy Micheals
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 TBD
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Facility Coordinator
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Neil Smith
+The Fordness
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-Thefordness
+TBD
 </td></tr><tr>
 </tbody></table>
 
@@ -277,14 +273,10 @@ TBD
 Here is the current list of the other business issues that have been proposed for a vote.
 This list will be updated as new information is submitted.
 
-Insert Table Here
 
 
 &nbsp;
-
 &nbsp;
-
-
 
 Be sure to visit us in [Slack](https://thelab.slack.com) or [IRC](https://kiwiirc.com/client/irc.freenode.org/?nick=TheLabGuest|?&theme=cli#thelab.ms) or [Reddit](http://www.reddit.com/r/TheLab_ms/) to share your ideas!
 
