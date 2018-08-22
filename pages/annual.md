@@ -1,6 +1,6 @@
 Title: Annual Meeting 2018
 Date: 2017-05-23 10:20
-Modified: 2018-05-27 19:05
+Modified: 2018-06-06 20:00
 Authors: Richard Gowen, Paul Ingendorf
 Summary: Annual Meeting 2018
 url: /
@@ -141,7 +141,7 @@ Below is a list of the leadership positions with a brief description of each.
 &nbsp;
 
 &nbsp;
-
+<a name="nominees" />
 ### Nominations for Elected Positions
 
 Here is the current list of nominations for all elected positions.
@@ -161,35 +161,35 @@ President (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Greg Miller
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Greg Miller
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Vice President (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Olivia Snyder
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Olivia Snyder
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Secretary (Director)
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Pavel Shatokhin
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Pavel Shatokhin
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Floating (Director) Qty:2
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Tommy Falgout, Brandon Hansford
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+James Ford, Brandon Hansford
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Treasurer
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Kevin Horn
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Kevin Horn
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Chief Legal Officer
@@ -203,28 +203,28 @@ Education Coordinator
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Olivia Snyder
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Olivia Snyder
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Chief Technical Officer
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Paul Ingendorf
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Paul Ingendorf
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Fundraising Coordinator
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 Andy Micheals
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Andy Micheals
 </td></tr><tr>
 <td style="width: 25%; vertical-align: top; padding: 6px;">
 Facility Coordinator
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
 The Fordness
 </td><td style="width: 25%; vertical-align: top; padding: 6px;">
-TBD
+Tommy Falgout
 </td></tr><tr>
 </tbody></table>
 
